@@ -1,0 +1,9 @@
+C:\Users\Kaci\Documents\Big Bad Code Repos\My Spawn\tfwYouWantToSleepButSeeTheStarsToo\tfwYouWantToSleepButSeeTheStarsToo\bin\Debug\tfwYouWantToSleepButSeeTheStarsToo.exe.config
+C:\Users\Kaci\Documents\Big Bad Code Repos\My Spawn\tfwYouWantToSleepButSeeTheStarsToo\tfwYouWantToSleepButSeeTheStarsToo\bin\Debug\tfwYouWantToSleepButSeeTheStarsToo.exe
+C:\Users\Kaci\Documents\Big Bad Code Repos\My Spawn\tfwYouWantToSleepButSeeTheStarsToo\tfwYouWantToSleepButSeeTheStarsToo\bin\Debug\tfwYouWantToSleepButSeeTheStarsToo.pdb
+C:\Users\Kaci\Documents\Big Bad Code Repos\My Spawn\tfwYouWantToSleepButSeeTheStarsToo\tfwYouWantToSleepButSeeTheStarsToo\obj\Debug\tfwYouWantToSleepButSeeTheStarsToo.csprojResolveAssemblyReference.cache
+C:\Users\Kaci\Documents\Big Bad Code Repos\My Spawn\tfwYouWantToSleepButSeeTheStarsToo\tfwYouWantToSleepButSeeTheStarsToo\obj\Debug\tfwYouWantToSleepButSeeTheStarsToo.csproj.CoreCompileInputs.cache
+C:\Users\Kaci\Documents\Big Bad Code Repos\My Spawn\tfwYouWantToSleepButSeeTheStarsToo\tfwYouWantToSleepButSeeTheStarsToo\obj\Debug\tfwYouWantToSleepButSeeTheStarsToo.exe
+C:\Users\Kaci\Documents\Big Bad Code Repos\My Spawn\tfwYouWantToSleepButSeeTheStarsToo\tfwYouWantToSleepButSeeTheStarsToo\obj\Debug\tfwYouWantToSleepButSeeTheStarsToo.pdb
+C:\Users\Kaci\Documents\Big Bad Code Repos\My Spawn\tfwYouWantToSleepButSeeTheStarsToo\tfwYouWantToSleepButSeeTheStarsToo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kaci\Documents\Big Bad Code Repos\My Spawn\tfwYouWantToSleepButSeeTheStarsToo\tfwYouWantToSleepButSeeTheStarsToo\bin\Debug\Newtonsoft.Json.xml
