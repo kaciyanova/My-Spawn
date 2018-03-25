@@ -8,13 +8,15 @@ namespace tfwYouWantToSleepButSeeTheStarsToo
 {
     class Weather
     {
-        public int sunrise { get; set; }
-        public int sunset { get; set; }
+        public DateTime SunriseUTC { get; set; }
+        public DateTime SunsetUTC { get; set; }
 
-        public float temperature { get; set; }
+        public float Temperature { get; set; }
 
-        public float windSpeed { get; set; }
+        public float WindSpeed { get; set; }
 
-        public int rain { get; set; }
+        public int RainVolume { get; set; }
+
+        public string WeatherType { get; set; }
     }
 }

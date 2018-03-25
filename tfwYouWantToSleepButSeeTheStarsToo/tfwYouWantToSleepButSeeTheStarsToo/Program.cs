@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace tfwYouWantToSleepButSeeTheStarsToo
@@ -10,8 +11,14 @@ namespace tfwYouWantToSleepButSeeTheStarsToo
     {
         static void Main(string[] args)
         {
-            var weather=WeatherGetter.GetWeather();
-            DoThings.DoAllTheThings(weather);
+            Task window = Task.Factory.StartNew(() => DoThings("window"));
+
+            while (true)
+            {
+                Thread.Sleep(10 * 60 * 1000);
+                Runners.WindowController("prg");
+                Runners.CurtainController("prg");
+            }
         }
     }
 }

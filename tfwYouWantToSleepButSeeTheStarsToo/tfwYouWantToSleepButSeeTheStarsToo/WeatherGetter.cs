@@ -12,16 +12,16 @@ namespace tfwYouWantToSleepButSeeTheStarsToo
     {
         public const string apiKey = "&APPID=645c1c14a8b508ac4edc828eb1527bc0";
 
-        public static Weather GetWeather()
+        public static Weather GetWeather(string currentCity)
         {
-            var weatherResult = CallApi();
+            var weatherResult = CallApi(currentCity);
 
             var weather = MakeWeatherObject(DeserialiseResult(weatherResult));
 
             return weather;
         }
 
-        static string CallApi()
+        static string CallApi(string currentCity)
         {
             var server = "api.openweathermap.org/data/2.5/weather?";
 
@@ -39,7 +39,20 @@ namespace tfwYouWantToSleepButSeeTheStarsToo
 
             //            var postcodeCall = $"{server}zip={prgPostcode},{czCountryCode}{apiKey}";
             //            var cityCall = $"{server}q={prgCity}{apiKey}";
-            var coordinateCall = $"{server}lat={prgCoords.Item1}&lon={prgCoords.Item2}{apiKey}";
+
+
+            var coordinatesToUse= new Tuple<double, double>(0, 0); ;
+
+            if (currentCity == "prg")
+            {
+                coordinatesToUse = prgCoords;
+            }
+            else if (currentCity == "ed")
+            {
+                coordinatesToUse = edCoords;
+            }
+       
+            var coordinateCall = $"{server}lat={coordinatesToUse.Item1}&lon={coordinatesToUse.Item2}{apiKey}";
 
             var client = new WebClient { Encoding = Encoding.UTF8 };
 
@@ -60,13 +73,15 @@ namespace tfwYouWantToSleepButSeeTheStarsToo
 
         static Weather MakeWeatherObject(WeatherResult.Rootobject weatherResult)
         {
+            var unixEpoch = new DateTime(1970, 1, 1);
+
             var weather = new Weather()
             {
-                sunrise = weatherResult.sys.sunrise,
-                sunset = weatherResult.sys.sunset,
-                temperature = weatherResult.main.temp,
-                windSpeed = weatherResult.wind.speed,
-                rain = weatherResult.rain._3h
+                SunriseUTC = unixEpoch.AddSeconds(weatherResult.sys.sunrise),
+                SunsetUTC = unixEpoch.AddSeconds(weatherResult.sys.sunset),
+                Temperature = weatherResult.main.temp,
+                WindSpeed = weatherResult.wind.speed,
+                RainVolume = weatherResult.rain._3h
             };
 
             return weather;
