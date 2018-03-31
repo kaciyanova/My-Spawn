@@ -45,13 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DoThings.cs" />
+    <Compile Include="Controllers\CurtainController.cs" />
+    <Compile Include="Schedule.cs" />
+    <Compile Include="Scheduler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Runners.cs" />
+    <Compile Include="TimeOfDay.cs" />
     <Compile Include="Weather.cs" />
     <Compile Include="WeatherResult.cs" />
     <Compile Include="WeatherGetter.cs" />
+    <Compile Include="Controllers\WindowController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

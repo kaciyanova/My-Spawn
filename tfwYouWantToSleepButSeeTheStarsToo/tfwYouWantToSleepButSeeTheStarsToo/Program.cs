@@ -9,15 +9,34 @@ namespace tfwYouWantToSleepButSeeTheStarsToo
 {
     class Program
     {
+      public static volatile int sleepTimeIntervalMins;
+
         static void Main(string[] args)
         {
-            Task window = Task.Factory.StartNew(() => DoThings("window"));
+            var city = "prg";
+            var wakeTime = new TimeOfDay { Hours = 9, Minutes = 30 };
+
+           Scheduler.Schedule(WeatherGetter.Weather, city, wakeTime);
+
+            Task getWeather = Task.Factory.StartNew(() => WeatherGetter.GetWeather(city));
+            Task window = Task.Factory.StartNew(() => WindowController.CheckWeather(WeatherGetter.Weather));
+            Task curtains = Task.Factory.StartNew(CurtainController.CheckTime);
+
+            getWeather.Start();
+            window.Start();
+            curtains.Start();
 
             while (true)
             {
+                if (DateTime.UtcNow >= Scheduler.schedule.StandbyStart && DateTime.UtcNow < Scheduler.schedule.StandbyEnd)
+                {
+                    sleepTimeIntervalMins = 60;
+                }
+                else
+                {
+                    sleepTimeIntervalMins = 10;
+                }
                 Thread.Sleep(10 * 60 * 1000);
-                Runners.WindowController("prg");
-                Runners.CurtainController("prg");
             }
         }
     }
