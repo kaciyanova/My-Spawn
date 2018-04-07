@@ -12,13 +12,16 @@ int main(int argc,char **argv)
 
 	int lenFirst=strlen(firstName);
 
-	if(lenFirst>0&&firstName[lenFirst-1]=='\n')
+	if(lenFirst>0&&firstName[lenFirst-1]=='\n'){
 		firstName[lenFirst-1]='\0';
+	}
 
-	if(strcmp(firstName,"Kevin")==0)
+	if(strcmp(firstName,"Kevin")==0){
 		printf("Hey! Another Kevin! \n");
-	else
+	}
+	else{
 		printf("Oh well\n");
+	}
 
 
 
@@ -27,15 +30,18 @@ int main(int argc,char **argv)
 
 	int lenLast=strlen(lastName);
 
-	if(lenLast>0&&lastName[lenLast-1]=='\n')
-		lastName[lenLast-1]='\0';
+	if(lenLast>0&&lastName[lenLast-1]=='\n'){
+			lastName[lenLast-1]='\0';}
 
-	if(strcmp(lastName,"Kevin")==0&&strcmp(firstName,"Kevin")==0)
+	if(strcmp(lastName,"Kevin")==0&&strcmp(firstName,"Kevin")==0){
 		printf("Your name is Kevin Kevin?!! \n");
-	else if(strcmp(lastName,"Chalmers")==0)
+	}
+	else if(strcmp(lastName,"Chalmers")==0){
 		printf("of Secrets!\n");
-	else
+	}
+	else{
 		printf("Oh Well! Guess I'll continue being rude!\n");
+	}
 
 	fullName[0]='\0';
 	strcat(fullName,firstName);
