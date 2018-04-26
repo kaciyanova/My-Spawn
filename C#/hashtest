@@ -1,0 +1,10 @@
+using System.Collections;
+using System;
+class Project{
+    static void Main(){
+        public Hashtable dir=new Hashtable();
+        
+        
+        dir[1]=1
+    }
+}
