@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Hide My Ass! Web Proxy</title>
+  <link media="all" rel="stylesheet" href="css/all.css">
+  <link media="all" rel="stylesheet" href="css/options.css">
+  <script type="text/javascript" src="js/options.js"></script>
+</head>
+<body>
+  <div id="wrapper" class="proxy">
+    <div class="container-holder">
+      <header id="header">
+        <div class="logo">
+          <a href="https://www.hidemyass.com/?utm_source=proxy_extension&utm_medium=link&utm_campaign=proxy" target="_blank">
+            <img src="images/logo.png" alt="HIDEMYASS" width="292" height="314">
+          </a>
+        </div>
+        <div class="text-holder">
+          <h1>Hide My Ass! Proxy Extension</h1>
+          <p>Thanks for installing the HMA! proxy extension. You will  find our "H" icon located to the right of your address bar. If you click the icon whilst already on a website, our extension will take you to the proxified version of that site.</p>
+          <p>A proxy form will display if you click the icon with no website loaded (e.g. a new tab). Alternatively, type "hma" (without quotes) in front of URLs to go to proxified versions.</p>
+        </div>
+      </header>
+      <main role="main">
+        <section class="service-block">
+          <div class="text-holder">
+            <div class="heading">
+              <h1>best VPN service in the world</h1>
+            </div>
+            <ul class="list">
+              <li>840 VPN servers</li>
+              <li>300 locations in 180 countries</li>
+              <li>110,000+ IP addresses</li>
+              <li>Unlimited bandwidth usage</li>
+              <li>Use on multiple devices</li>
+              <li>24/7 dedicated customer support</li>
+            </ul>
+            <a href="https://www.hidemyass.com/pricing?utm_source=proxy_extension&utm_medium=link&utm_campaign=proxy" target="_blank" class="btn-try small">
+              <strong class="title">Try it now</strong>
+              <div class="text">
+                <strong>30 day</strong>
+                <p>Money Back Guaratee</p>
+              </div>
+            </a>
+          </div>
+          <div class="img-block">
+            <div class="img">
+              <img src="images/img1.svg" alt="image description" width="217" height="282">
+            </div>
+            <div class="img">
+              <img src="images/img2.svg" alt="image description" width="359" height="378">
+            </div>
+          </div>
+        </section>
+        <section class="form-section">
+          <h1>Extension options</h1>
+          <fieldset>
+            <div class="col">
+              <ul class="check-list">
+                <li>
+                  <input type="checkbox" id="proxy_ssl">
+                  <label for="proxy_ssl">
+                    <strong class="title">SSL encryption</strong>
+                    <span>Recommended for improved security.</span>
+                  </label>
+                </li>
+                <li>
+                  <input type="checkbox" id="incognito">
+                  <label for="incognito">
+                    <strong class="title">Launch proxy in incognito mode</strong>
+                    <span>"Allow in incognito" checkbox must be enabled as well. Find this option in Tools > Extensions.</span>
+                  </label>
+                </li>
+                <li>
+                  <input type="checkbox" id="context_menu">
+                  <label for="context_menu">
+                    <strong class="title">Context menu integration</strong>
+                    <span>Adds item "Open via HMA Proxy" to the right-click context menu .</span>
+                  </label>
+                </li>
+                <li>
+                  <input type="checkbox" id="new_tab">
+                  <label for="new_tab">
+                    <strong class="title">Open websites in a new tab</strong>
+                    <span>Will open proxified websites in a new browser tab.</span>
+                  </label>
+                </li>
+                <li>
+                  <input type="checkbox" id="always_popup">
+                  <label for="always_popup">
+                    <strong class="title">Never use value of address bar</strong>
+                    <span>If enabled, extension will never use the value of address bar, but treat each tab as a new tab.</span>
+                  </label>
+                </li>
+              </ul>
+            </div>
+            <div class="col">
+              <h2>Server location</h2>
+              <p><!--Only HideMyAss.com has the ability of server selection. Other proxy sites will be based in USA only.--></p>
+              <div class="select-container">
+                <select id="proxy_server" class="select-lg">
+                  <option value="random">Random server</option>
+                  <option value="1">USA, Illinois, Chicago - 1</option>
+                  <option value="2">USA, Illinois, Chicago - 2</option>
+                  <option value="3">USA, Illinois, Chicago - 3</option>
+                  <option value="6">USA, Illionis, Chicago - 4</option>
+                  <option value="4">UK, Berkshire - 1</option>
+                  <option value="5">UK, Berkshire - 2</option>
+                  <option value="7">Netherlands, Amsterdam - 1</option>
+                </select>
+              </div>
+              <div class="radio-block">
+                <h2>URL encryption</h2>
+                <p>Encoded URL's never expire and are reversable. Encrypted URL's expire after set times and are irreversible.</p>
+                <ul class="radio-list">
+                  <li>
+                    <input type="radio" id="url_encrypt_encoded" name="url_encrypt" value="encoded">
+                    <label for="url_encrypt_encoded">Encoded</label>
+                  </li>
+                  <li>
+                    <input type="radio" id="url_encrypt_encrypted" name="url_encrypt" value="encrypted">
+                    <label for="url_encrypt_encrypted">Encrypted</label>
+                  </li>
+                </ul>
+              </div>
+              <div class="submit-block">
+                <!--<input type="submit" id="save_button" value="Save Settings">-->
+                <input type="reset" id="restore_link" class="no-style" value="Restore Defaults">
+              </div>
+            </div>
+          </fieldset>
+        </section>
+      </main>
+      <footer id="footer">
+        <div class="logo">
+          <a href="https://www.hidemyass.com/?utm_source=proxy_extension&utm_medium=link&utm_campaign=proxy" target="_blank">
+            <img src="images/ico-donkey.svg" alt="HIDEMYASS" width="88" height="100">
+            <img src="images/text-hidemyass.png" alt="hidemyass" width="130" height="33">
+          </a>
+        </div>
+        <p>&copy; Copyright 2015 <a href="https://www.hidemyass.com/legal/privacy?utm_source=proxy_extension&utm_medium=link&utm_campaign=proxy" target="_blank">Privacy</a> <a href="https://www.hidemyass.com/legal/website-terms?utm_source=proxy_extension&utm_medium=link&utm_campaign=proxy" target="_blank">Terms and Conditions</a></p>
+      </footer>
+    </div>
+  </div>
+  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="js/jquery.main.js"></script>
+</body>
+</html>

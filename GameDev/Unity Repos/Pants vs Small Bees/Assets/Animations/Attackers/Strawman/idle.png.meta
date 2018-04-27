@@ -1,0 +1,2907 @@
+fileFormatVersion: 2
+guid: b3aa9272ea7dc4b2c9df89cf0e06d6f5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_gardening_vendor__x1_idle_stand_png_1354831015_0
+    21300002: npc_gardening_vendor__x1_idle_stand_png_1354831015_1
+    21300004: npc_gardening_vendor__x1_idle_stand_png_1354831015_2
+    21300006: npc_gardening_vendor__x1_idle_stand_png_1354831015_3
+    21300008: npc_gardening_vendor__x1_idle_stand_png_1354831015_4
+    21300010: npc_gardening_vendor__x1_idle_stand_png_1354831015_5
+    21300012: npc_gardening_vendor__x1_idle_stand_png_1354831015_6
+    21300014: npc_gardening_vendor__x1_idle_stand_png_1354831015_7
+    21300016: npc_gardening_vendor__x1_idle_stand_png_1354831015_8
+    21300018: npc_gardening_vendor__x1_idle_stand_png_1354831015_9
+    21300020: npc_gardening_vendor__x1_idle_stand_png_1354831015_10
+    21300022: npc_gardening_vendor__x1_idle_stand_png_1354831015_11
+    21300024: npc_gardening_vendor__x1_idle_stand_png_1354831015_12
+    21300026: npc_gardening_vendor__x1_idle_stand_png_1354831015_13
+    21300028: npc_gardening_vendor__x1_idle_stand_png_1354831015_14
+    21300030: npc_gardening_vendor__x1_idle_stand_png_1354831015_15
+    21300032: npc_gardening_vendor__x1_idle_stand_png_1354831015_16
+    21300034: npc_gardening_vendor__x1_idle_stand_png_1354831015_17
+    21300036: npc_gardening_vendor__x1_idle_stand_png_1354831015_18
+    21300038: npc_gardening_vendor__x1_idle_stand_png_1354831015_19
+    21300040: npc_gardening_vendor__x1_idle_stand_png_1354831015_20
+    21300042: npc_gardening_vendor__x1_idle_stand_png_1354831015_21
+    21300044: npc_gardening_vendor__x1_idle_stand_png_1354831015_22
+    21300046: npc_gardening_vendor__x1_idle_stand_png_1354831015_23
+    21300048: npc_gardening_vendor__x1_idle_stand_png_1354831015_24
+    21300050: npc_gardening_vendor__x1_idle_stand_png_1354831015_25
+    21300052: npc_gardening_vendor__x1_idle_stand_png_1354831015_26
+    21300054: npc_gardening_vendor__x1_idle_stand_png_1354831015_27
+    21300056: npc_gardening_vendor__x1_idle_stand_png_1354831015_28
+    21300058: npc_gardening_vendor__x1_idle_stand_png_1354831015_29
+    21300060: npc_gardening_vendor__x1_idle_stand_png_1354831015_30
+    21300062: npc_gardening_vendor__x1_idle_stand_png_1354831015_31
+    21300064: npc_gardening_vendor__x1_idle_stand_png_1354831015_32
+    21300066: npc_gardening_vendor__x1_idle_stand_png_1354831015_33
+    21300068: npc_gardening_vendor__x1_idle_stand_png_1354831015_34
+    21300070: npc_gardening_vendor__x1_idle_stand_png_1354831015_35
+    21300072: npc_gardening_vendor__x1_idle_stand_png_1354831015_36
+    21300074: npc_gardening_vendor__x1_idle_stand_png_1354831015_37
+    21300076: npc_gardening_vendor__x1_idle_stand_png_1354831015_38
+    21300078: npc_gardening_vendor__x1_idle_stand_png_1354831015_39
+    21300080: npc_gardening_vendor__x1_idle_stand_png_1354831015_40
+    21300082: npc_gardening_vendor__x1_idle_stand_png_1354831015_41
+    21300084: npc_gardening_vendor__x1_idle_stand_png_1354831015_42
+    21300086: npc_gardening_vendor__x1_idle_stand_png_1354831015_43
+    21300088: npc_gardening_vendor__x1_idle_stand_png_1354831015_44
+    21300090: npc_gardening_vendor__x1_idle_stand_png_1354831015_45
+    21300092: npc_gardening_vendor__x1_idle_stand_png_1354831015_46
+    21300094: npc_gardening_vendor__x1_idle_stand_png_1354831015_47
+    21300096: npc_gardening_vendor__x1_idle_stand_png_1354831015_48
+    21300098: npc_gardening_vendor__x1_idle_stand_png_1354831015_49
+    21300100: npc_gardening_vendor__x1_idle_stand_png_1354831015_50
+    21300102: npc_gardening_vendor__x1_idle_stand_png_1354831015_51
+    21300104: npc_gardening_vendor__x1_idle_stand_png_1354831015_52
+    21300106: npc_gardening_vendor__x1_idle_stand_png_1354831015_53
+    21300108: npc_gardening_vendor__x1_idle_stand_png_1354831015_54
+    21300110: npc_gardening_vendor__x1_idle_stand_png_1354831015_55
+    21300112: npc_gardening_vendor__x1_idle_stand_png_1354831015_56
+    21300114: npc_gardening_vendor__x1_idle_stand_png_1354831015_57
+    21300116: npc_gardening_vendor__x1_idle_stand_png_1354831015_58
+    21300118: npc_gardening_vendor__x1_idle_stand_png_1354831015_59
+    21300120: npc_gardening_vendor__x1_idle_stand_png_1354831015_60
+    21300122: npc_gardening_vendor__x1_idle_stand_png_1354831015_61
+    21300124: npc_gardening_vendor__x1_idle_stand_png_1354831015_62
+    21300126: npc_gardening_vendor__x1_idle_stand_png_1354831015_63
+    21300128: npc_gardening_vendor__x1_idle_stand_png_1354831015_64
+    21300130: npc_gardening_vendor__x1_idle_stand_png_1354831015_65
+    21300132: npc_gardening_vendor__x1_idle_stand_png_1354831015_66
+    21300134: npc_gardening_vendor__x1_idle_stand_png_1354831015_67
+    21300136: npc_gardening_vendor__x1_idle_stand_png_1354831015_68
+    21300138: npc_gardening_vendor__x1_idle_stand_png_1354831015_69
+    21300140: npc_gardening_vendor__x1_idle_stand_png_1354831015_70
+    21300142: npc_gardening_vendor__x1_idle_stand_png_1354831015_71
+    21300144: npc_gardening_vendor__x1_idle_stand_png_1354831015_72
+    21300146: npc_gardening_vendor__x1_idle_stand_png_1354831015_73
+    21300148: npc_gardening_vendor__x1_idle_stand_png_1354831015_74
+    21300150: npc_gardening_vendor__x1_idle_stand_png_1354831015_75
+    21300152: npc_gardening_vendor__x1_idle_stand_png_1354831015_76
+    21300154: npc_gardening_vendor__x1_idle_stand_png_1354831015_77
+    21300156: npc_gardening_vendor__x1_idle_stand_png_1354831015_78
+    21300158: npc_gardening_vendor__x1_idle_stand_png_1354831015_79
+    21300160: npc_gardening_vendor__x1_idle_stand_png_1354831015_80
+    21300162: npc_gardening_vendor__x1_idle_stand_png_1354831015_81
+    21300164: npc_gardening_vendor__x1_idle_stand_png_1354831015_82
+    21300166: npc_gardening_vendor__x1_idle_stand_png_1354831015_83
+    21300168: npc_gardening_vendor__x1_idle_stand_png_1354831015_84
+    21300170: npc_gardening_vendor__x1_idle_stand_png_1354831015_85
+    21300172: npc_gardening_vendor__x1_idle_stand_png_1354831015_86
+    21300174: npc_gardening_vendor__x1_idle_stand_png_1354831015_87
+    21300176: npc_gardening_vendor__x1_idle_stand_png_1354831015_88
+    21300178: npc_gardening_vendor__x1_idle_stand_png_1354831015_89
+    21300180: npc_gardening_vendor__x1_idle_stand_png_1354831015_90
+    21300182: npc_gardening_vendor__x1_idle_stand_png_1354831015_91
+    21300184: npc_gardening_vendor__x1_idle_stand_png_1354831015_92
+    21300186: npc_gardening_vendor__x1_idle_stand_png_1354831015_93
+    21300188: npc_gardening_vendor__x1_idle_stand_png_1354831015_94
+    21300190: npc_gardening_vendor__x1_idle_stand_png_1354831015_95
+    21300192: npc_gardening_vendor__x1_idle_stand_png_1354831015_96
+    21300194: npc_gardening_vendor__x1_idle_stand_png_1354831015_97
+    21300196: npc_gardening_vendor__x1_idle_stand_png_1354831015_98
+    21300198: npc_gardening_vendor__x1_idle_stand_png_1354831015_99
+    21300200: npc_gardening_vendor__x1_idle_stand_png_1354831015_100
+    21300202: npc_gardening_vendor__x1_idle_stand_png_1354831015_101
+    21300204: npc_gardening_vendor__x1_idle_stand_png_1354831015_102
+    21300206: npc_gardening_vendor__x1_idle_stand_png_1354831015_103
+    21300208: npc_gardening_vendor__x1_idle_stand_png_1354831015_104
+    21300210: npc_gardening_vendor__x1_idle_stand_png_1354831015_105
+    21300212: npc_gardening_vendor__x1_idle_stand_png_1354831015_106
+    21300214: npc_gardening_vendor__x1_idle_stand_png_1354831015_107
+    21300216: npc_gardening_vendor__x1_idle_stand_png_1354831015_108
+    21300218: npc_gardening_vendor__x1_idle_stand_png_1354831015_109
+    21300220: npc_gardening_vendor__x1_idle_stand_png_1354831015_110
+    21300222: npc_gardening_vendor__x1_idle_stand_png_1354831015_111
+    21300224: npc_gardening_vendor__x1_idle_stand_png_1354831015_112
+    21300226: npc_gardening_vendor__x1_idle_stand_png_1354831015_113
+    21300228: npc_gardening_vendor__x1_idle_stand_png_1354831015_114
+    21300230: npc_gardening_vendor__x1_idle_stand_png_1354831015_115
+    21300232: npc_gardening_vendor__x1_idle_stand_png_1354831015_116
+    21300234: npc_gardening_vendor__x1_idle_stand_png_1354831015_117
+    21300236: npc_gardening_vendor__x1_idle_stand_png_1354831015_118
+    21300238: npc_gardening_vendor__x1_idle_stand_png_1354831015_119
+    21300240: npc_gardening_vendor__x1_idle_stand_png_1354831015_120
+    21300242: npc_gardening_vendor__x1_idle_stand_png_1354831015_121
+    21300244: npc_gardening_vendor__x1_idle_stand_png_1354831015_122
+    21300246: npc_gardening_vendor__x1_idle_stand_png_1354831015_123
+    21300248: npc_gardening_vendor__x1_idle_stand_png_1354831015_124
+    21300250: npc_gardening_vendor__x1_idle_stand_png_1354831015_125
+    21300252: npc_gardening_vendor__x1_idle_stand_png_1354831015_126
+    21300254: npc_gardening_vendor__x1_idle_stand_png_1354831015_127
+    21300256: npc_gardening_vendor__x1_idle_stand_png_1354831015_128
+    21300258: npc_gardening_vendor__x1_idle_stand_png_1354831015_129
+    21300260: npc_gardening_vendor__x1_idle_stand_png_1354831015_130
+    21300262: npc_gardening_vendor__x1_idle_stand_png_1354831015_131
+    21300264: npc_gardening_vendor__x1_idle_stand_png_1354831015_132
+    21300266: npc_gardening_vendor__x1_idle_stand_png_1354831015_133
+    21300268: npc_gardening_vendor__x1_idle_stand_png_1354831015_134
+    21300270: npc_gardening_vendor__x1_idle_stand_png_1354831015_135
+    21300272: npc_gardening_vendor__x1_idle_stand_png_1354831015_136
+    21300274: npc_gardening_vendor__x1_idle_stand_png_1354831015_137
+    21300276: npc_gardening_vendor__x1_idle_stand_png_1354831015_138
+    21300278: npc_gardening_vendor__x1_idle_stand_png_1354831015_139
+    21300280: npc_gardening_vendor__x1_idle_stand_png_1354831015_140
+    21300282: npc_gardening_vendor__x1_idle_stand_png_1354831015_141
+    21300284: npc_gardening_vendor__x1_idle_stand_png_1354831015_142
+    21300286: npc_gardening_vendor__x1_idle_stand_png_1354831015_143
+    21300288: npc_gardening_vendor__x1_idle_stand_png_1354831015_144
+    21300290: npc_gardening_vendor__x1_idle_stand_png_1354831015_145
+    21300292: npc_gardening_vendor__x1_idle_stand_png_1354831015_146
+    21300294: npc_gardening_vendor__x1_idle_stand_png_1354831015_147
+    21300296: npc_gardening_vendor__x1_idle_stand_png_1354831015_148
+    21300298: npc_gardening_vendor__x1_idle_stand_png_1354831015_149
+    21300300: npc_gardening_vendor__x1_idle_stand_png_1354831015_150
+    21300302: npc_gardening_vendor__x1_idle_stand_png_1354831015_151
+    21300304: npc_gardening_vendor__x1_idle_stand_png_1354831015_152
+    21300306: npc_gardening_vendor__x1_idle_stand_png_1354831015_153
+    21300308: npc_gardening_vendor__x1_idle_stand_png_1354831015_154
+    21300310: npc_gardening_vendor__x1_idle_stand_png_1354831015_155
+    21300312: npc_gardening_vendor__x1_idle_stand_png_1354831015_156
+    21300314: npc_gardening_vendor__x1_idle_stand_png_1354831015_157
+    21300316: npc_gardening_vendor__x1_idle_stand_png_1354831015_158
+    21300318: npc_gardening_vendor__x1_idle_stand_png_1354831015_159
+    21300320: npc_gardening_vendor__x1_idle_stand_png_1354831015_160
+    21300322: npc_gardening_vendor__x1_idle_stand_png_1354831015_161
+    21300324: npc_gardening_vendor__x1_idle_stand_png_1354831015_162
+    21300326: npc_gardening_vendor__x1_idle_stand_png_1354831015_163
+    21300328: npc_gardening_vendor__x1_idle_stand_png_1354831015_164
+    21300330: npc_gardening_vendor__x1_idle_stand_png_1354831015_165
+    21300332: npc_gardening_vendor__x1_idle_stand_png_1354831015_166
+    21300334: npc_gardening_vendor__x1_idle_stand_png_1354831015_167
+    21300336: npc_gardening_vendor__x1_idle_stand_png_1354831015_168
+    21300338: npc_gardening_vendor__x1_idle_stand_png_1354831015_169
+    21300340: npc_gardening_vendor__x1_idle_stand_png_1354831015_170
+    21300342: npc_gardening_vendor__x1_idle_stand_png_1354831015_171
+    21300344: npc_gardening_vendor__x1_idle_stand_png_1354831015_172
+    21300346: npc_gardening_vendor__x1_idle_stand_png_1354831015_173
+    21300348: npc_gardening_vendor__x1_idle_stand_png_1354831015_174
+    21300350: npc_gardening_vendor__x1_idle_stand_png_1354831015_175
+    21300352: npc_gardening_vendor__x1_idle_stand_png_1354831015_176
+    21300354: npc_gardening_vendor__x1_idle_stand_png_1354831015_177
+    21300356: npc_gardening_vendor__x1_idle_stand_png_1354831015_178
+    21300358: npc_gardening_vendor__x1_idle_stand_png_1354831015_179
+    21300360: npc_gardening_vendor__x1_idle_stand_png_1354831015_180
+    21300362: npc_gardening_vendor__x1_idle_stand_png_1354831015_181
+    21300364: npc_gardening_vendor__x1_idle_stand_png_1354831015_182
+    21300366: npc_gardening_vendor__x1_idle_stand_png_1354831015_183
+    21300368: npc_gardening_vendor__x1_idle_stand_png_1354831015_184
+    21300370: npc_gardening_vendor__x1_idle_stand_png_1354831015_185
+    21300372: npc_gardening_vendor__x1_idle_stand_png_1354831015_186
+    21300374: npc_gardening_vendor__x1_idle_stand_png_1354831015_187
+    21300376: npc_gardening_vendor__x1_idle_stand_png_1354831015_188
+    21300378: npc_gardening_vendor__x1_idle_stand_png_1354831015_189
+    21300380: npc_gardening_vendor__x1_idle_stand_png_1354831015_190
+    21300382: npc_gardening_vendor__x1_idle_stand_png_1354831015_191
+    21300384: npc_gardening_vendor__x1_idle_stand_png_1354831015_192
+    21300386: npc_gardening_vendor__x1_idle_stand_png_1354831015_193
+    21300388: npc_gardening_vendor__x1_idle_stand_png_1354831015_194
+    21300390: npc_gardening_vendor__x1_idle_stand_png_1354831015_195
+    21300392: npc_gardening_vendor__x1_idle_stand_png_1354831015_196
+    21300394: npc_gardening_vendor__x1_idle_stand_png_1354831015_197
+    21300396: npc_gardening_vendor__x1_idle_stand_png_1354831015_198
+    21300398: npc_gardening_vendor__x1_idle_stand_png_1354831015_199
+    21300400: npc_gardening_vendor__x1_idle_stand_png_1354831015_200
+    21300402: npc_gardening_vendor__x1_idle_stand_png_1354831015_201
+    21300404: npc_gardening_vendor__x1_idle_stand_png_1354831015_202
+    21300406: npc_gardening_vendor__x1_idle_stand_png_1354831015_203
+    21300408: npc_gardening_vendor__x1_idle_stand_png_1354831015_204
+    21300410: npc_gardening_vendor__x1_idle_stand_png_1354831015_205
+    21300412: npc_gardening_vendor__x1_idle_stand_png_1354831015_206
+    21300414: npc_gardening_vendor__x1_idle_stand_png_1354831015_207
+    21300416: npc_gardening_vendor__x1_idle_stand_png_1354831015_208
+    21300418: npc_gardening_vendor__x1_idle_stand_png_1354831015_209
+    21300420: npc_gardening_vendor__x1_idle_stand_png_1354831015_210
+    21300422: npc_gardening_vendor__x1_idle_stand_png_1354831015_211
+    21300424: npc_gardening_vendor__x1_idle_stand_png_1354831015_212
+    21300426: npc_gardening_vendor__x1_idle_stand_png_1354831015_213
+    21300428: npc_gardening_vendor__x1_idle_stand_png_1354831015_214
+    21300430: npc_gardening_vendor__x1_idle_stand_png_1354831015_215
+    21300432: npc_gardening_vendor__x1_idle_stand_png_1354831015_216
+    21300434: npc_gardening_vendor__x1_idle_stand_png_1354831015_217
+    21300436: npc_gardening_vendor__x1_idle_stand_png_1354831015_218
+    21300438: npc_gardening_vendor__x1_idle_stand_png_1354831015_219
+    21300440: npc_gardening_vendor__x1_idle_stand_png_1354831015_220
+    21300442: npc_gardening_vendor__x1_idle_stand_png_1354831015_221
+    21300444: npc_gardening_vendor__x1_idle_stand_png_1354831015_222
+    21300446: npc_gardening_vendor__x1_idle_stand_png_1354831015_223
+    21300448: npc_gardening_vendor__x1_idle_stand_png_1354831015_224
+    21300450: npc_gardening_vendor__x1_idle_stand_png_1354831015_225
+    21300452: npc_gardening_vendor__x1_idle_stand_png_1354831015_226
+    21300454: npc_gardening_vendor__x1_idle_stand_png_1354831015_227
+    21300456: npc_gardening_vendor__x1_idle_stand_png_1354831015_228
+    21300458: npc_gardening_vendor__x1_idle_stand_png_1354831015_229
+    21300460: npc_gardening_vendor__x1_idle_stand_png_1354831015_230
+    21300462: npc_gardening_vendor__x1_idle_stand_png_1354831015_231
+    21300464: npc_gardening_vendor__x1_idle_stand_png_1354831015_232
+    21300466: npc_gardening_vendor__x1_idle_stand_png_1354831015_233
+    21300468: npc_gardening_vendor__x1_idle_stand_png_1354831015_234
+    21300470: npc_gardening_vendor__x1_idle_stand_png_1354831015_235
+    21300472: npc_gardening_vendor__x1_idle_stand_png_1354831015_236
+    21300474: npc_gardening_vendor__x1_idle_stand_png_1354831015_237
+    21300476: npc_gardening_vendor__x1_idle_stand_png_1354831015_238
+    21300478: npc_gardening_vendor__x1_idle_stand_png_1354831015_239
+    21300480: npc_gardening_vendor__x1_idle_stand_png_1354831015_240
+    21300482: npc_gardening_vendor__x1_idle_stand_png_1354831015_241
+    21300484: npc_gardening_vendor__x1_idle_stand_png_1354831015_242
+    21300486: npc_gardening_vendor__x1_idle_stand_png_1354831015_243
+    21300488: npc_gardening_vendor__x1_idle_stand_png_1354831015_244
+    21300490: npc_gardening_vendor__x1_idle_stand_png_1354831015_245
+    21300492: npc_gardening_vendor__x1_idle_stand_png_1354831015_246
+    21300494: npc_gardening_vendor__x1_idle_stand_png_1354831015_247
+    21300496: npc_gardening_vendor__x1_idle_stand_png_1354831015_248
+    21300498: npc_gardening_vendor__x1_idle_stand_png_1354831015_249
+    21300500: npc_gardening_vendor__x1_idle_stand_png_1354831015_250
+    21300502: npc_gardening_vendor__x1_idle_stand_png_1354831015_251
+    21300504: npc_gardening_vendor__x1_idle_stand_png_1354831015_252
+    21300506: npc_gardening_vendor__x1_idle_stand_png_1354831015_253
+    21300508: npc_gardening_vendor__x1_idle_stand_png_1354831015_254
+    21300510: npc_gardening_vendor__x1_idle_stand_png_1354831015_255
+    21300512: npc_gardening_vendor__x1_idle_stand_png_1354831015_256
+    21300514: npc_gardening_vendor__x1_idle_stand_png_1354831015_257
+    21300516: npc_gardening_vendor__x1_idle_stand_png_1354831015_258
+    21300518: npc_gardening_vendor__x1_idle_stand_png_1354831015_259
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2178
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2178
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_6
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2178
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_7
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_8
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2178
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_9
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_10
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_11
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_12
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_13
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_14
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_15
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2178
+        width: 151
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_16
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_17
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_18
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_19
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_20
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_21
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 2178
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1980
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1980
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_25
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_27
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_28
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_29
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_30
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_31
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_32
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_33
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_34
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_35
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_36
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_37
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_38
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_39
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_40
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_41
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_42
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_43
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1980
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_45
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_46
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_47
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_48
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_49
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_50
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_51
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_52
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_53
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_54
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_55
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_56
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_57
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_58
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_59
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_60
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_61
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_62
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_63
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_64
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_65
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1782
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_67
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_68
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_69
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_70
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_71
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_72
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_73
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_74
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_75
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_76
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_77
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_78
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_79
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_80
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_81
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_82
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_83
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_84
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_85
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_86
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_87
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1584
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_89
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_90
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_91
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_92
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_93
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_94
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_95
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_96
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_97
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_98
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_99
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_100
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_101
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_102
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_103
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_104
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_105
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_106
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_107
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_108
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_109
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1386
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_110
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1188
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_111
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1188
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_112
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1188
+        width: 149
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_113
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1188
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_114
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1188
+        width: 149
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_115
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1188
+        width: 149
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_116
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1188
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_117
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_118
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_119
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_120
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_121
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_122
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_123
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_124
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_125
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_126
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_127
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_128
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_129
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_130
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_131
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 1188
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_132
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_133
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_134
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_135
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_136
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_137
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_138
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_139
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_140
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_141
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_142
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_143
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_144
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_145
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_146
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_147
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_148
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_149
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_150
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_151
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_152
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_153
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 990
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_154
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_155
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_156
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_157
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_158
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_159
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_160
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_161
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_162
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_163
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_164
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_165
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_166
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_167
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_168
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_169
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_170
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_171
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_172
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_173
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_174
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_175
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 792
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_176
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_177
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_178
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_179
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_180
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_181
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_182
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_183
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_184
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_185
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_186
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_187
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_188
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_189
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_190
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_191
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_192
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_193
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_194
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_195
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_196
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_197
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 594
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_198
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_199
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_200
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_201
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_202
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_203
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_204
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_205
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_206
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_207
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_208
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_209
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_210
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 396
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_211
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 396
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_212
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 396
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_213
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 396
+        width: 149
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_214
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 396
+        width: 149
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_215
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 396
+        width: 149
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_216
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 396
+        width: 150
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_217
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 396
+        width: 150
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_218
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 396
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_219
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 396
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_220
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_221
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_222
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_223
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_224
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_225
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_226
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_227
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_228
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_229
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_230
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_231
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_232
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_233
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_234
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_235
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_236
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_237
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_238
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_239
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_240
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_241
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 198
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_242
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_243
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_244
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_245
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_246
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_247
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_248
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_249
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_250
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_251
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_252
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_253
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_254
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_255
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_256
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_257
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_258
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_gardening_vendor__x1_idle_stand_png_1354831015_259
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 0
+        width: 149
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

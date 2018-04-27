@@ -1,0 +1,66 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"name": "__MSG_extName__",
+	"short_name": "Stylish",
+	"version": "1.7.2",
+	"description": "__MSG_description__",
+	"homepage_url": "https://userstyles.org",
+	"manifest_version": 2,
+	"icons": {
+		"128": "images/128.png"
+	},
+	"permissions": [
+		"tabs",
+		"webNavigation",
+		"webRequest",
+		"webRequestBlocking",
+		"contextMenus",
+		"storage",
+		"*://*/*"
+	],
+	"optional_permissions": [
+		"downloads"
+	],
+	"content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+	"background": {
+		"scripts": ["src/refilter.js", "src/messaging.js", "src/storage-websql.js", "src/storage.js", "src/analytics.js", "src/background.js"]
+	},
+	"commands": {
+	  "openManage": {
+		"description": "__MSG_openManage__"
+	  },
+	  "styleDisableAll": {
+		"description": "__MSG_disableAllStyles__"
+	  }
+	},
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"run_at": "document_start",
+			"all_frames": true,
+			"js": ["src/inject/apply.js"]
+		},
+		{
+			"matches": ["http://userstyles.org/*", "https://userstyles.org/*"],
+			"run_at": "document_end",
+			"all_frames": false,
+			"js": ["src/inject/install.js"]
+		},
+		{
+			"matches": ["http://userstyles.org/**?autofb", "https://userstyles.org/**?autofb"],
+			"run_at": "document_end",
+			"all_frames": false,
+			"js": ["src/inject/auto-feedback-forward.js"]
+		}
+	],
+	"options_page": "manage.html",
+	"browser_action": {
+		"default_icon": {
+			"128": "images/128w.png"
+		},
+		"default_title": "Stylish",
+		"default_popup": "popup.html"
+	},
+	"default_locale": "en"
+}

@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 6b76efa99b1254a8ab52b1647ccc92f4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_0
+    21300002: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_1
+    21300004: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_2
+    21300006: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_3
+    21300008: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_4
+    21300010: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_5
+    21300012: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_6
+    21300014: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_7
+    21300016: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_8
+    21300018: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_9
+    21300020: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_10
+    21300022: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_11
+    21300024: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_12
+    21300026: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_13
+    21300028: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_14
+    21300030: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_15
+    21300032: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_16
+    21300034: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_17
+    21300036: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_18
+    21300038: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_19
+    21300040: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_20
+    21300042: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_21
+    21300044: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_22
+    21300046: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_23
+    21300048: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_24
+    21300050: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_25
+    21300052: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_26
+    21300054: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_27
+    21300056: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_28
+    21300058: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_29
+    21300060: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_30
+    21300062: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_31
+    21300064: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_32
+    21300066: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_33
+    21300068: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_34
+    21300070: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_35
+    21300072: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_36
+    21300074: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_37
+    21300076: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_38
+    21300078: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_39
+    21300080: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_40
+    21300082: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_41
+    21300084: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_42
+    21300086: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_43
+    21300088: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_44
+    21300090: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_45
+    21300092: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_46
+    21300094: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_47
+    21300096: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_48
+    21300098: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_49
+    21300100: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_50
+    21300102: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_51
+    21300104: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_52
+    21300106: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_53
+    21300108: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_54
+    21300110: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_55
+    21300112: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_56
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 453
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 453
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 453
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 453
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 453
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 453
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 453
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_8
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 453
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_9
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 453
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 363
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 363
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 363
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 363
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 363
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 363
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 363
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_18
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 363
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_19
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 363
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 273
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 273
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 273
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 273
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 273
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_26
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 273
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_27
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 273
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_28
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 273
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_29
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 273
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 183
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 183
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 183
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_34
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 183
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_35
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 183
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_36
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 183
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_37
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 183
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_38
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 183
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_39
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 183
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 93
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 93
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_43
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 93
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_44
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 93
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_45
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 93
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_46
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 93
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_47
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 93
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_48
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 93
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_49
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 93
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_53
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_54
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_55
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 3
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_bureaucrat_arms_02_glasses_none_hair_03_legs_02_necklace_none_tie_02_torso_02_x1_idle1_png_1354833037_56
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

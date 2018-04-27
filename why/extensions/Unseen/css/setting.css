@@ -1,0 +1,92 @@
+/*
+// Copyright (c) 2011 Frank Kohlhepp
+// https://github.com/frankkohlhepp/fancy-settings
+// License: LGPL v2.1
+*/
+@font-face {
+    font-family: "ProximaNova-Regular";
+    src: url("../fonts/ProximaNova-Regular.eot");
+    src: url("../fonts/ProximaNova-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/ProximaNova-Regular.woff") format("woff"), url("../fonts/ProximaNova-Regular.ttf") format("truetype"), url("../fonts/ProximaNova-Regular.svg#ProximaNova-Regular") format("svg");
+    font-weight: normal;
+    font-style: normal
+}
+.tab-content h2 {
+    display: none;
+    margin: 0;
+    padding-bottom: 5px;
+    font-size: 26px;
+    color: #707070;
+    line-height: 1;
+}
+
+.setting.group {
+    /* margin-top: 10px; */
+    /* padding-top: 5px; */
+    padding-left: 2px;
+}
+
+.setting.group-name {
+    width: 140px;
+    padding: 0;
+    font-size: 14px;
+    font-weight: bold;
+    vertical-align: top;
+}
+
+.setting.bundle {
+    max-width: 600px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.setting.bundle.list-box {
+    margin-bottom: 10px;
+}
+
+.setting.label.radio-buttons + .setting.container.radio-buttons {
+    margin-top: 3px;
+}
+
+.setting.label, .setting.element-label {
+    margin-right: 15px;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.setting.label.checkbox, .setting.element-label {
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+.setting.label.checkbox {
+    position: relative;
+    top: 1px;
+    color: #353535;
+    font-family: "ProximaNova-Regular";
+    font-size: 14px;
+}
+
+.setting.element.slider {
+    position: relative;
+    width: 150px;
+    top: 4px;
+}
+
+.setting.element.list-box {
+    display: block;
+    height: 100px;
+    width: 100%;
+}
+
+.setting.display.slider {
+    margin-left: 5px;
+    color: #666666;
+}
+
+#nothing-found {
+    display: none;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: lighter;
+    color: #999999;
+}

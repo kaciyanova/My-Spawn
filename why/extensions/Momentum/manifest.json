@@ -1,0 +1,33 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "manifest_version": 2,
+    "name": "Momentum",
+    "short_name": "Momentum",
+    "version": "0.92.2",
+    "description": "Replace new tab page with a personal dashboard featuring todo, weather, and inspiration.",
+    "icons": {
+        "16": "icon-16.png",
+        "128": "icon-128.png"
+    },
+    "background": {
+        "scripts": [
+            "momentum.js"
+        ],
+        "persistent": false
+    },
+    "content_security_policy": "script-src 'self' https://www.google-analytics.com https://query.yahooapis.com https://*.momentumdash.com https://az416426.vo.msecnd.net 'unsafe-eval'; object-src 'self'",
+    "chrome_url_overrides": {
+        "newtab": "dashboard.html"
+    },
+    "offline_enabled": true,
+    "browser_action": {
+        "default_title": "Momentum"
+    },
+    "permissions": [
+        "geolocation",
+        "unlimitedStorage",
+        "*://*.yahooapis.com/*",
+        "*://*.momentumdash.com/*"
+    ]
+}

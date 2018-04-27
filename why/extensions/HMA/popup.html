@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>HideMyAssProxy</title>
+  <link media="all" rel="stylesheet" href="css/all.css">
+  <link media="all" rel="stylesheet" href="css/popup.css">
+  <script src="js/popup.js"></script>
+</head>
+<body>
+  <div id="wrapper">
+    <div class="proxy-popup">
+      <form action="javascript:;" class="proxy-form">
+        <fieldset>
+          <label for="url">Please enter the URL you would like to proxy</label>
+          <input type="url" id="url">
+          <div id="error" style="display: none">Please enter a correct URL</div>
+          <div class="btn-holder">
+            <input type="submit" value="Proxy">
+            <a href="javascript:;" class="link-cancel">Cancel</a>
+            <a href="javascript:;" class="link-settings">settings</a>
+          </div>
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="js/jquery.main.js"></script>
+</body>
+</html>

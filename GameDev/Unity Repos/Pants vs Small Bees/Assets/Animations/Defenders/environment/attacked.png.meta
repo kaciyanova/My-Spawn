@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 39be30907287842ceb63e2ff354c2af8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idle cry_0
+    21300002: idle cry_1
+    21300004: idle cry_2
+    21300006: idle cry_3
+    21300008: idle cry_4
+    21300010: idle cry_5
+    21300012: idle cry_6
+    21300014: idle cry_7
+    21300016: idle cry_8
+    21300018: idle cry_9
+    21300020: idle cry_10
+    21300022: idle cry_11
+    21300024: idle cry_12
+    21300026: idle cry_13
+    21300028: idle cry_14
+    21300030: idle cry_15
+    21300032: idle cry_16
+    21300034: idle cry_17
+    21300036: idle cry_18
+    21300038: idle cry_19
+    21300040: idle cry_20
+    21300042: idle cry_21
+    21300044: idle cry_22
+    21300046: idle cry_23
+    21300048: idle cry_24
+    21300050: idle cry_25
+    21300052: idle cry_26
+    21300054: idle cry_27
+    21300056: idle cry_28
+    21300058: idle cry_29
+    21300060: idle cry_30
+    21300062: idle cry_31
+    21300064: idle cry_32
+    21300066: idle cry_33
+    21300068: idle cry_34
+    21300070: idle cry_35
+    21300072: idle cry_36
+    21300074: idle cry_37
+    21300076: idle cry_38
+    21300078: idle cry_39
+    21300080: idle cry_40
+    21300082: idle cry_41
+    21300084: idle cry_42
+    21300086: idle cry_43
+    21300088: idle cry_44
+    21300090: idle cry_45
+    21300092: idle cry_46
+    21300094: idle cry_47
+    21300096: idle cry_48
+    21300098: idle cry_49
+    21300100: idle cry_50
+    21300102: idle cry_51
+    21300104: idle cry_52
+    21300106: idle cry_53
+    21300108: idle cry_54
+    21300110: idle cry_55
+    21300112: idle cry_56
+    21300114: idle cry_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idle cry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_12
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_20
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_26
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_33
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_34
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_39
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_40
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_41
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_44
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_46
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_47
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_48
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_52
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_53
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_54
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_55
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle cry_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
