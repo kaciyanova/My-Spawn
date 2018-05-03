@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 252624ca53b8f4ea1a8647e6e0d6d14c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: talk_0
+    21300002: talk_1
+    21300004: talk_2
+    21300006: talk_3
+    21300008: talk_4
+    21300010: talk_5
+    21300012: talk_6
+    21300014: talk_7
+    21300016: talk_8
+    21300018: talk_9
+    21300020: talk_10
+    21300022: talk_11
+    21300024: talk_12
+    21300026: talk_13
+    21300028: talk_14
+    21300030: talk_15
+    21300032: talk_16
+    21300034: talk_17
+    21300036: talk_18
+    21300038: talk_19
+    21300040: talk_20
+    21300042: talk_21
+    21300044: talk_22
+    21300046: talk_23
+    21300048: talk_24
+    21300050: talk_25
+    21300052: talk_26
+    21300054: talk_27
+    21300056: talk_28
+    21300058: talk_29
+    21300060: talk_30
+    21300062: talk_31
+    21300064: talk_32
+    21300066: talk_33
+    21300068: talk_34
+    21300070: talk_35
+    21300072: talk_36
+    21300074: talk_37
+    21300076: talk_38
+    21300078: talk_39
+    21300080: talk_40
+    21300082: talk_41
+    21300084: talk_42
+    21300086: talk_43
+    21300088: talk_44
+    21300090: talk_45
+    21300092: talk_46
+    21300094: talk_47
+    21300096: talk_48
+    21300098: talk_49
+    21300100: talk_50
+    21300102: talk_51
+    21300104: talk_52
+    21300106: talk_53
+    21300108: talk_54
+    21300110: talk_55
+    21300112: talk_56
+    21300114: talk_57
+    21300116: talk_58
+    21300118: talk_59
+    21300120: talk_60
+    21300122: talk_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: talk_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 187
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 187
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 187
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 187
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 187
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 187
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 187
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 187
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 187
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 187
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 187
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_11
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 187
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_12
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 187
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_13
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 187
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_14
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 187
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_15
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 187
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 126
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 126
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 126
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 126
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 126
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 126
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_22
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 126
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 126
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_24
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 126
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 126
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_26
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 126
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_27
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 126
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_28
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 126
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_29
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 126
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_30
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 126
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 126
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 65
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_34
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 65
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 65
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_36
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 65
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_37
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_38
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_39
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_40
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_41
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_42
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_43
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_44
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_45
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_46
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_47
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 65
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 4
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 4
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_51
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_53
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_54
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 4
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_55
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 4
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_58
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 4
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_59
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 4
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_60
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 4
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: talk_61
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

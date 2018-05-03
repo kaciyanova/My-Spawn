@@ -1,0 +1,1091 @@
+fileFormatVersion: 2
+guid: 8981bdc6a99ce49f7940d5182dceff66
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_squid_variant_squidBlue_x1_talk_png_1354833363_0
+    21300002: npc_squid_variant_squidBlue_x1_talk_png_1354833363_1
+    21300004: npc_squid_variant_squidBlue_x1_talk_png_1354833363_2
+    21300006: npc_squid_variant_squidBlue_x1_talk_png_1354833363_3
+    21300008: npc_squid_variant_squidBlue_x1_talk_png_1354833363_4
+    21300010: npc_squid_variant_squidBlue_x1_talk_png_1354833363_5
+    21300012: npc_squid_variant_squidBlue_x1_talk_png_1354833363_6
+    21300014: npc_squid_variant_squidBlue_x1_talk_png_1354833363_7
+    21300016: npc_squid_variant_squidBlue_x1_talk_png_1354833363_8
+    21300018: npc_squid_variant_squidBlue_x1_talk_png_1354833363_9
+    21300020: npc_squid_variant_squidBlue_x1_talk_png_1354833363_10
+    21300022: npc_squid_variant_squidBlue_x1_talk_png_1354833363_11
+    21300024: npc_squid_variant_squidBlue_x1_talk_png_1354833363_12
+    21300026: npc_squid_variant_squidBlue_x1_talk_png_1354833363_13
+    21300028: npc_squid_variant_squidBlue_x1_talk_png_1354833363_14
+    21300030: npc_squid_variant_squidBlue_x1_talk_png_1354833363_15
+    21300032: npc_squid_variant_squidBlue_x1_talk_png_1354833363_16
+    21300034: npc_squid_variant_squidBlue_x1_talk_png_1354833363_17
+    21300036: npc_squid_variant_squidBlue_x1_talk_png_1354833363_18
+    21300038: npc_squid_variant_squidBlue_x1_talk_png_1354833363_19
+    21300040: npc_squid_variant_squidBlue_x1_talk_png_1354833363_20
+    21300042: npc_squid_variant_squidBlue_x1_talk_png_1354833363_21
+    21300044: npc_squid_variant_squidBlue_x1_talk_png_1354833363_22
+    21300046: npc_squid_variant_squidBlue_x1_talk_png_1354833363_23
+    21300048: npc_squid_variant_squidBlue_x1_talk_png_1354833363_24
+    21300050: npc_squid_variant_squidBlue_x1_talk_png_1354833363_25
+    21300052: npc_squid_variant_squidBlue_x1_talk_png_1354833363_26
+    21300054: npc_squid_variant_squidBlue_x1_talk_png_1354833363_27
+    21300056: npc_squid_variant_squidBlue_x1_talk_png_1354833363_28
+    21300058: npc_squid_variant_squidBlue_x1_talk_png_1354833363_29
+    21300060: npc_squid_variant_squidBlue_x1_talk_png_1354833363_30
+    21300062: npc_squid_variant_squidBlue_x1_talk_png_1354833363_31
+    21300064: npc_squid_variant_squidBlue_x1_talk_png_1354833363_32
+    21300066: npc_squid_variant_squidBlue_x1_talk_png_1354833363_33
+    21300068: npc_squid_variant_squidBlue_x1_talk_png_1354833363_34
+    21300070: npc_squid_variant_squidBlue_x1_talk_png_1354833363_35
+    21300072: npc_squid_variant_squidBlue_x1_talk_png_1354833363_36
+    21300074: npc_squid_variant_squidBlue_x1_talk_png_1354833363_37
+    21300076: npc_squid_variant_squidBlue_x1_talk_png_1354833363_38
+    21300078: npc_squid_variant_squidBlue_x1_talk_png_1354833363_39
+    21300080: npc_squid_variant_squidBlue_x1_talk_png_1354833363_40
+    21300082: npc_squid_variant_squidBlue_x1_talk_png_1354833363_41
+    21300084: npc_squid_variant_squidBlue_x1_talk_png_1354833363_42
+    21300086: npc_squid_variant_squidBlue_x1_talk_png_1354833363_43
+    21300088: npc_squid_variant_squidBlue_x1_talk_png_1354833363_44
+    21300090: npc_squid_variant_squidBlue_x1_talk_png_1354833363_45
+    21300092: npc_squid_variant_squidBlue_x1_talk_png_1354833363_46
+    21300094: npc_squid_variant_squidBlue_x1_talk_png_1354833363_47
+    21300096: npc_squid_variant_squidBlue_x1_talk_png_1354833363_48
+    21300098: npc_squid_variant_squidBlue_x1_talk_png_1354833363_49
+    21300100: npc_squid_variant_squidBlue_x1_talk_png_1354833363_50
+    21300102: npc_squid_variant_squidBlue_x1_talk_png_1354833363_51
+    21300104: npc_squid_variant_squidBlue_x1_talk_png_1354833363_52
+    21300106: npc_squid_variant_squidBlue_x1_talk_png_1354833363_53
+    21300108: npc_squid_variant_squidBlue_x1_talk_png_1354833363_54
+    21300110: npc_squid_variant_squidBlue_x1_talk_png_1354833363_55
+    21300112: npc_squid_variant_squidBlue_x1_talk_png_1354833363_56
+    21300114: npc_squid_variant_squidBlue_x1_talk_png_1354833363_57
+    21300116: npc_squid_variant_squidBlue_x1_talk_png_1354833363_58
+    21300118: npc_squid_variant_squidBlue_x1_talk_png_1354833363_59
+    21300120: npc_squid_variant_squidBlue_x1_talk_png_1354833363_60
+    21300122: npc_squid_variant_squidBlue_x1_talk_png_1354833363_61
+    21300124: npc_squid_variant_squidBlue_x1_talk_png_1354833363_62
+    21300126: npc_squid_variant_squidBlue_x1_talk_png_1354833363_63
+    21300128: npc_squid_variant_squidBlue_x1_talk_png_1354833363_64
+    21300130: npc_squid_variant_squidBlue_x1_talk_png_1354833363_65
+    21300132: npc_squid_variant_squidBlue_x1_talk_png_1354833363_66
+    21300134: npc_squid_variant_squidBlue_x1_talk_png_1354833363_67
+    21300136: npc_squid_variant_squidBlue_x1_talk_png_1354833363_68
+    21300138: npc_squid_variant_squidBlue_x1_talk_png_1354833363_69
+    21300140: npc_squid_variant_squidBlue_x1_talk_png_1354833363_70
+    21300142: npc_squid_variant_squidBlue_x1_talk_png_1354833363_71
+    21300144: npc_squid_variant_squidBlue_x1_talk_png_1354833363_72
+    21300146: npc_squid_variant_squidBlue_x1_talk_png_1354833363_73
+    21300148: npc_squid_variant_squidBlue_x1_talk_png_1354833363_74
+    21300150: npc_squid_variant_squidBlue_x1_talk_png_1354833363_75
+    21300152: npc_squid_variant_squidBlue_x1_talk_png_1354833363_76
+    21300154: npc_squid_variant_squidBlue_x1_talk_png_1354833363_77
+    21300156: npc_squid_variant_squidBlue_x1_talk_png_1354833363_78
+    21300158: npc_squid_variant_squidBlue_x1_talk_png_1354833363_79
+    21300160: npc_squid_variant_squidBlue_x1_talk_png_1354833363_80
+    21300162: npc_squid_variant_squidBlue_x1_talk_png_1354833363_81
+    21300164: npc_squid_variant_squidBlue_x1_talk_png_1354833363_82
+    21300166: npc_squid_variant_squidBlue_x1_talk_png_1354833363_83
+    21300168: npc_squid_variant_squidBlue_x1_talk_png_1354833363_84
+    21300170: npc_squid_variant_squidBlue_x1_talk_png_1354833363_85
+    21300172: npc_squid_variant_squidBlue_x1_talk_png_1354833363_86
+    21300174: poofing_0
+    21300176: poofing_1
+    21300178: poofing_2
+    21300180: poofing_3
+    21300182: poofing_4
+    21300184: poofing_5
+    21300186: poofing_6
+    21300188: poofing_7
+    21300190: poofing_8
+    21300192: poofing_9
+    21300194: poofing_10
+    21300196: poofing_11
+    21300198: poofing_12
+    21300200: poofing_13
+    21300202: poofing_14
+    21300204: poofing_15
+    21300206: poofing_16
+    21300208: poofing_17
+    21300210: poofing_18
+    21300212: poofing_19
+    21300214: poofing_20
+    21300216: poofing_21
+    21300218: poofing_22
+    21300220: poofing_23
+    21300222: poofing_24
+    21300224: poofing_25
+    21300226: poofing_26
+    21300228: poofing_27
+    21300230: poofing_28
+    21300232: poofing_29
+    21300234: poofing_30
+    21300236: poofing_31
+    21300238: poofing_32
+    21300240: poofing_33
+    21300242: poofing_34
+    21300244: poofing_35
+    21300246: poofing_36
+    21300248: poofing_37
+    21300250: poofing_38
+    21300252: poofing_39
+    21300254: poofing_40
+    21300256: poofing_41
+    21300258: poofing_42
+    21300260: poofing_43
+    21300262: poofing_44
+    21300264: poofing_45
+    21300266: poofing_46
+    21300268: poofing_47
+    21300270: poofing_48
+    21300272: poofing_49
+    21300274: poofing_50
+    21300276: poofing_51
+    21300278: poofing_52
+    21300280: poofing_53
+    21300282: poofing_54
+    21300284: poofing_55
+    21300286: poofing_56
+    21300288: poofing_57
+    21300290: poofing_58
+    21300292: poofing_59
+    21300294: poofing_60
+    21300296: poofing_61
+    21300298: poofing_62
+    21300300: poofing_63
+    21300302: poofing_64
+    21300304: poofing_65
+    21300306: poofing_66
+    21300308: poofing_67
+    21300310: poofing_68
+    21300312: poofing_69
+    21300314: poofing_70
+    21300316: poofing_71
+    21300318: poofing_72
+    21300320: poofing_73
+    21300322: poofing_74
+    21300324: poofing_75
+    21300326: poofing_76
+    21300328: poofing_77
+    21300330: poofing_78
+    21300332: poofing_79
+    21300334: poofing_80
+    21300336: poofing_81
+    21300338: poofing_82
+    21300340: poofing_83
+    21300342: poofing_84
+    21300344: poofing_85
+    21300346: poofing_86
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.300003
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: poofing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_4
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_5
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_6
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_7
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_8
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_9
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_10
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_11
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_12
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_13
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_14
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_18
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_19
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_20
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_21
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_22
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_23
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_24
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_25
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_26
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_27
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_28
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_29
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_31
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_32
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_33
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_34
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_35
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_36
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_37
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_38
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_39
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_40
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_41
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_42
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_43
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_44
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_47
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_48
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_49
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_50
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_51
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_52
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_53
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_54
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_55
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_56
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_57
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_58
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_59
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_61
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_62
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_63
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_64
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_65
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_66
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_67
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_68
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_69
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_70
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_71
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_72
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_73
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_74
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_76
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_78
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_79
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_80
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_81
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_82
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_83
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_84
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_85
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poofing_86
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

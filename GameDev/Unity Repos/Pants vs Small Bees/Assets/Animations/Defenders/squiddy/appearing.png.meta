@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 6a5c690fef5784f5ba555a0435bdd71d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_squid_variant_squidBlue_x1_bamfIn_png_1354833371_0
+    21300002: npc_squid_variant_squidBlue_x1_bamfIn_png_1354833371_1
+    21300004: npc_squid_variant_squidBlue_x1_bamfIn_png_1354833371_2
+    21300006: npc_squid_variant_squidBlue_x1_bamfIn_png_1354833371_3
+    21300008: npc_squid_variant_squidBlue_x1_bamfIn_png_1354833371_4
+    21300010: npc_squid_variant_squidBlue_x1_bamfIn_png_1354833371_5
+    21300012: npc_squid_variant_squidBlue_x1_bamfIn_png_1354833371_6
+    21300014: npc_squid_variant_squidBlue_x1_bamfIn_png_1354833371_7
+    21300016: npc_squid_variant_squidBlue_x1_bamfIn_png_1354833371_8
+    21300018: appearing_0
+    21300020: appearing_1
+    21300022: appearing_2
+    21300024: appearing_3
+    21300026: appearing_4
+    21300028: appearing_5
+    21300030: appearing_6
+    21300032: appearing_7
+    21300034: appearing_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.300003
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: appearing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: appearing_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: appearing_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: appearing_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: appearing_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: appearing_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: appearing_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: appearing_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: appearing_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
