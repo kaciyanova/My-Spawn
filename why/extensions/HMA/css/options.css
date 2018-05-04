@@ -1,0 +1,8 @@
+LABEL {
+	-webkit-user-select: none;
+	user-select: none;
+}
+
+.jcf-disabled {
+	opacity: 0.4;
+}

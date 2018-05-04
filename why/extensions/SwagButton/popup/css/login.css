@@ -1,0 +1,540 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.lp_logo {
+	height: 135px;
+	width: 100%;
+}
+
+.lp_logo img {
+	margin-top: 40px;
+	margin-left: 65px;
+}
+
+#lp_content_wrap {
+	margin: 0px auto;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.lp_facebook {
+	height: 55px;
+	margin-left: 20px;
+}
+
+.new_tab_link {
+	cursor: pointer;
+}
+
+#tutorial_link {
+	cursor: pointer;
+}
+
+.facebook_connect_btn {
+	width: 360px;
+	position: relative;
+	padding: 10px 0px 10px 0px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: normal;
+	text-shadow: none;
+	background: #3b5998;
+	box-shadow: none;
+	border-radius: 4px;
+	text-align: center;
+	font-weight: bold;
+}
+.facebook_connect_btn:hover {
+	background: #35508a;
+}
+.facebook_connect_btn:active {
+	background: #30497d;
+}
+
+.facebook_connect_btn span {
+	width: 24px;
+	height: 100%; 
+	display: block;
+	position: absolute;
+	top: 6px;
+	left: 20px;
+	background-position: 0px -83px;
+	background-repeat: no-repeat;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.facebook_connect_btn span {
+		background-image: url(../../popup/img/login/sprite-landing-page.svg);
+	}
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	.facebook_connect_btn span {
+		background-image: url(../../popup/img/login/sprite-landing-page.svg);
+	}
+}
+
+@-moz-document url-prefix() {
+	.facebook_connect_btn span {
+		background-image: url(chrome://shopearnsbx/skin/img/login/sprite-landing-page.svg);
+	}
+}
+
+.lp_hr{
+	height: 1px; 
+	position: relative; 
+	background-color: #d1d9e4; 
+	margin: 20px 40px 0;
+	width: 320px;
+}
+.lp_hr_text {
+	width: 100%;
+	position: absolute;
+	left: 0px;
+	margin-top: -9px;
+	font-size: 14px; 
+	color: #666;
+	text-align: center;
+	zoom: 1;
+}
+
+.lp_hr span {
+	padding: 0px 5px; 
+	background-color: #fff; 
+}
+
+.hr_all {
+	margin: 20px 0 0 0;
+	width: 100%;
+}
+
+.lp_form{
+	padding-top: 20px;
+}
+
+.home_signup_input_wrap {
+	position: relative;
+	top: 0;
+	left: 0;
+	margin-bottom: 15px;
+}
+
+.input_icon{
+	width: 32px;
+	height: 20px;
+	left: 10px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	border-right: 1px solid #ccc;
+	background-repeat: no-repeat;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.input_icon{
+		background-image: url(../../popup/img/login/sprite-landing-page.svg);
+	}
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	.input_icon{
+		background-image: url(../../popup/img/login/sprite-landing-page.svg);
+	}
+}
+
+@-moz-document url-prefix() {
+	.input_icon{
+		background-image: url(chrome://shopearnsbx/skin/img/login/sprite-landing-page.svg);
+	}
+}
+
+.home_signup_email .input_icon {
+	background-position: 0px 0px;
+}
+
+.home_signup_email .input_icon {
+	background-position: 0px 0px;
+}
+
+.home_signup_email .input_icon_active {
+	background-position: 0px -21px;
+}
+
+.home_signup_pass .input_icon {
+	background-position: 0px -42px;
+}
+
+.home_signup_pass .input_icon {
+	background-position: 0px -42px;
+}
+
+.home_signup_pass .input_icon_active {
+	background-position: 0px -62px;
+}
+
+.last_wrap {
+	margin-bottom: 10px;
+}
+
+.sbx_pass_wrap {
+	position: relative;
+	top: 0;
+	left: 0;
+	height: auto;
+}
+
+#home_signup_remember {
+	color: #666;
+	font-size: 14px;
+	margin-top: 25px;
+}
+
+#home_signup_remember input {
+	width: auto;
+	padding: 0px;
+	margin: 0px 5px 0px 0px;
+	border: none;
+	vertical-align: middle;
+}
+
+#home_signup_remember span {
+	vertical-align: middle;
+}
+
+.forgot_password_container {
+	margin-top: 8px;
+}
+
+#glbl_welcome_forgot_password {
+	color: #4083A9;
+	cursor: pointer;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.lp_form .login_btn, .lp_footer .sign_up_btn{
+	width: 162px;
+	display: inline-block;
+	vertical-align: bottom;
+	padding: 12px 0px;
+	color: #fff;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	background: #fff;
+	border: none;
+	border-radius: 4px;
+	background-color: #69B8D6;
+	zoom: 1;
+	display: inline-block;
+	cursor: default;
+}
+.lp_footer .sign_up_btn{
+	width: 162px;
+	display: inline-block;
+	vertical-align: bottom;
+	padding: 12px 0px;
+	color: #69B8D6;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	text-align: center;
+	background: #fff;
+	border: none;
+	border-radius: 4px;
+	border: #69B8D6 1px solid;
+	zoom: 1;
+	display: inline-block;
+	cursor: default;
+}
+.lp_form .login_btn_active, .lp_footer .sign_up_btn_active {
+	cursor: pointer;
+}
+.lp_form .login_btn_active:hover {
+	color: #fff;
+	background: #5cacca;
+}
+.lp_footer .sign_up_btn_active:hover {
+	color: #2388af;
+	border-color: #2388af;
+}
+.lp_form .login_btn_active:active, .lp_form .login_btn_active:focus {
+	background: #2388af;
+}
+.lp_footer .sign_up_btn_active:active, .lp_footer .sign_up_btn_active:focus {
+	background: #f5f5f5;
+}
+.lp_form .login_btn:active, .lp_form .login_btn:focus,
+.lp_footer .sign_up_btn:active, .lp_footer .sign_up_btn:focus  {
+	outline: none;
+}
+
+.sign_up_btn_active {
+	width: 115px !important;
+	padding: 5px 0px !important;
+}
+
+.lp_form {
+	width: 390px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	padding: 30px 0px 5px 20px;
+	zoom: 1;
+}
+
+.lp_form input {
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-shadow: none;
+	color: #555;
+	outline: 0;
+	padding: 14px 10px 14px 50px;
+	font-size: 14px;
+	line-height: 14px;
+}
+
+.lp_form input::placeholder {
+	line-height: inherit;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	.lp_form input {
+		width: 300px;
+	}
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.lp_form input {
+		width: 300px;
+	}
+}
+
+@-moz-document url-prefix() {
+	.lp_form input {
+		width: 300px;
+	}
+}
+
+.lp_form input:focus {
+	outline: 0;
+	border-color: #69B8D6;
+}
+
+.lp_left_link {
+	float:left;
+	margin-top: 5px;
+}
+
+.btn_login {
+	float:right;
+}
+
+.btn_login span {
+	margin-right: 25px;
+}
+
+.lp_footer{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+}
+
+.lp_footer_text {
+	font-size: 16px;
+	font-weight: bold;
+	color: black;
+	margin-top: 15px;
+	line-height: 45px;
+}
+
+.wnd_header{
+	text-align: center;
+	background-color: #3169b2;
+	border: 2px solid #666;
+	border-bottom-color: #3169b2;
+	border-top-left-radius: 2px; 
+	border-top-right-radius: 2px;
+	padding: 5px 20px;
+	margin-left: -1px;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	.wnd_header{
+		width: 345px;
+		margin-left: -1px;
+	}
+}
+
+.clear{
+	clear: both;
+}
+
+.global_nav_sb_logo {
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 26px;
+	margin: 3px -5px 0;
+	padding: 0;
+	vertical-align: middle;
+	width: 132px;
+	cursor: pointer;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.global_nav_sb_logo {
+		background-image: url("../../popup/img/login/logo-swagbucks_nav-sm.png");
+	}
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	.global_nav_sb_logo {
+		background-image: url("../../popup/img/login/logo-swagbucks_nav-sm.png");
+	}
+}
+
+@-moz-document url-prefix() {
+	.global_nav_sb_logo {
+		background-image: url("chrome://shopearnsbx/skin/img/login/logo-swagbucks_nav-sm.png");
+	}
+}
+
+.div_erlanding_page{
+	background-color: #ED1B24;
+	border-radius: 2px;
+	color: #FFFFFF;
+	display: none;
+	font-weight: bold;
+	left: 0;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	top: 110px;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.div_erlanding_page{
+		padding: 10px;
+	}
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	.div_erlanding_page{
+		padding: 10px;
+	}
+}
+
+@-moz-document url-prefix() {
+	.div_erlanding_page{
+		padding: 5px;
+	}
+}
+
+.main_content{
+	width: 388px;
+	margin: 0 auto;
+}
+
+#wnd_yogurt {
+	width: 430px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+}
+#wnd_critical_update {
+	width: 430px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+}
+.wnd_yogurt_body{
+	width: 350px;
+	padding: 35px 40px 0px 40px;
+	background-color: #fff;
+}
+.wnd_critical_update_body{
+	width: 350px;
+	padding: 35px 40px 35px 40px;
+	background-color: #fff;
+}
+#yogurt_image img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#critical_update_image img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+}
+#yogurt_top_text {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	text-align:center;
+	color: #9C9C9C;
+	font-size: 18px;
+}
+#critical_update_top_text {
+	display: block;
+	margin-left: auto;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	text-align:center;
+	color: #9C9C9C;
+	font-size: 18px;
+}
+#yogurt_bottom_text {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	text-align:center;
+	color: #9C9C9C;
+	font-size: 12px;
+}
+#critical_update_bottom_text {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align:center;
+	color: #9C9C9C;
+	font-size: 12px;
+}
+
+.critical_update_submit { 
+	overflow:hidden;
+	text-align: center;
+	font-size: 18px;
+	padding: 10px 40px;
+	font-family: Helvetica, Arial, sans-serif;
+	border-radius:4px;
+	text-shadow: none !important;
+	border: none !important;
+	box-shadow: none !important;
+}
+
+.critical_update_submit_button { 
+	box-shadow: 0px 1px 1px rgba(0,0,0,0.2);
+	display: inline-block;
+	zoom: 1;
+	cursor: pointer;
+}
+
+.new_tab_link {
+	cursor: pointer;
+}

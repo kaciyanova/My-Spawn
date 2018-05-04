@@ -1,0 +1,59 @@
+{
+   "ex_related": {
+      "description": "Label for related",
+      "message": "SearchPreview Related Link (Ad)"
+   },
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Enhances your search pages by inserting preview images, related links and popularity ranks."
+   },
+   "ex_insert_related": {
+      "description": "Label for related checkbox",
+      "message": "Insert related links (some may be ads)"
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Insert site preview images (thumbnails)"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "Insert popularity ranks (from very popular: "
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part of label for popularity ranks checkbox",
+      "message": " to not so popular: "
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Search Results Page Enhancements:"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Request Update of Preview Image"
+   },
+   "ex_save": {
+      "description": "Label for save",
+      "message": "Save"
+   },
+   "ex_saved": {
+      "description": "Label for saved",
+      "message": "Saved!"
+   },
+   
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "Loading SearchPreview popularity rank..."
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "SearchPreview popularity rank"
+   },
+   "ex_noRank": {
+      "description": "Label for no rank available",
+      "message": "No SearchPreview popularity rank"
+   }
+}

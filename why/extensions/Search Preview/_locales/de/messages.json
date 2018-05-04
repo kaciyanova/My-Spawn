@@ -1,0 +1,58 @@
+{
+   "ex_related": {
+      "description": "Label for related",
+      "message": "SearchPreview verwandter Link (Anzeige)"
+   },
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Erweitert Deine Suchseiten, indem Vorschaubilder, verwandte Links und Bekanntheitsgrade eingefügt werden."
+   },
+   "ex_insert_related": {
+      "description": "Label for related checkbox",
+      "message": "Verwandte Links einblenden (manche sind Anzeigen)"
+   },
+   "ex_insert_previews": {
+      "description": "Label for previews checkbox",
+      "message": "Vorschaubilder (thumbnails) der Suchergebnisse einblenden"
+   },
+   "ex_insert_ranks": {
+      "description": "Label for popularity ranks checkbox",
+      "message": "Bekanntheitsgrade einblenden (von sehr populär: "
+   },
+   "ex_insert_ranks_sec": {
+      "description": "Second part pf label for popularity ranks checkbox",
+      "message": " bis nicht so populär: "
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Einblendungen in den Suchergebnis-Seiten"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Update des Vorschaubildes anfordern"
+   },
+   "ex_save": {
+      "description": "Label for save",
+      "message": "Speichern"
+   },
+   "ex_saved": {
+      "description": "Label for saved",
+      "message": "Gespeichert!"
+   },
+   "ex_loadingRank": {
+      "description": "Label for loading rank",
+      "message": "Lade SearchPreview Bekanntheitsgrad..."
+   },
+   "ex_rank": {
+      "description": "Label for rank",
+      "message": "SearchPreview Bekanntheitsgrad"
+   },
+   "ex_noRank": {
+      "description": "Label for no rank available",
+      "message": "Kein SearchPreview Bekanntheitsgrad"
+   }
+}

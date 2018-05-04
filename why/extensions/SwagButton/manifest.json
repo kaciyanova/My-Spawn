@@ -1,0 +1,92 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"background": {
+	  "page": "bg.html"
+	},
+	"browser_action": { 
+	  "default_icon": {
+	    "19": "popup/img/popup/sb_logged_out.png",
+	    "38": "popup/img/popup/sb_logged_out_38.png"
+	  },
+	  "default_popup": "popup.html",
+	  "default_title": "SwagButton"
+	},
+	"default_locale": "en",
+	"content_scripts":[{
+		"js": ["js/jquery.js", "js/jquery.mousewheel.js", "js/SBExtension.js", "browser/js/SBBrowserInject.js", 
+		"browser/chrome/js/SBBrowserInjectChrome.js", "js/SBStorage.js", "inject/js/SBPageExtension.js", 
+		"inject/js/SBBannerBase.js","inject/js/Banners/SBCategoriesBanner.js","inject/js/Banners/SBSpecialCaseBanner.js",
+		"inject/js/SBPopupBase.js", "inject/js/Popups/SBStatePopup.js", "inject/js/Popups/SBSearchPopup.js"],
+		"matches": [ "\u003Call_urls>" ],
+		"run_at": "document_end"
+	},{
+		"all_frames": true,
+		"js": ["js/jquery.js", "js/SBExtension.js", "browser/js/SBBrowserInject.js", "browser/chrome/js/SBBrowserInjectChrome.js", "js/SBStorage.js", "inject/js/SBFrameExtension.js", "browser/chrome/js/SBBrowserInjectHelperChrome.js", "inject/js/SBPageExtension.js"],
+		"matches": [ "*://search.yahoo.com/yhs/search*&hsimp=yhs-prodege*", "*://www.google.com/uds/afs*client=infospace-syn-prodege*" ],
+		"run_at": "document_end"
+	},{
+		"all_frames": true,
+		"js": [ "inject/js/SBFrameExtension.js", "browser/chrome/js/SBBrowserInjectHelperChrome.js" ],
+		"matches": [ "\u003Call_urls>" ],
+		"run_at": "document_end"
+	}],
+	"content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+	"description": "__MSG_manifestDescription__",
+	"icons": {
+	  "128": "img/sbt128.png",
+	  "32": "img/sbt32.png",
+	  "48": "img/sbt48.png"
+	},
+	"manifest_version": 2,
+	"name": "SwagButton",
+	"permissions": [ "tabs", "webNavigation", "cookies", "webRequest", "http://*/*", "https://*/*", "\u003Call_urls>", "notifications", "management", "idle", "clipboardRead", "clipboardWrite", "pageCapture", "background", "contextMenus", "webRequestBlocking", "activeTab", "alarms", "clipboardRead", "clipboardWrite", "contextMenus", "fileBrowserHandler", "fontSettings", "power", "proxy", "storage", "system.display", "system.storage", "unlimitedStorage", "identity" ],
+	"short_name": "SwagButton",
+	"version": "221",
+	"options_page": "options.html",
+	"web_accessible_resources": [
+		"inject/img/banner/sb_logo.svg",
+		"inject/img/sb.svg",
+		"inject/img/banner/ok.svg",
+		
+		"inject/img/banner/Entertainment.jpg", 
+		"inject/img/banner/Lifestyle.jpg", 
+		"inject/img/banner/Celebrities.jpg", 
+		"inject/img/banner/Discovery.jpg", 
+
+		"inject/img/banner/cross.svg",
+		"inject/img/banner/arrow.svg",
+
+		"inject/img/shopearn/flag-CA.png",
+		"inject/img/shopearn/flag-UK.png",
+		"inject/img/shopearn/flag-US.png",
+		"inject/img/shopearn/flag-DE.png",
+		"inject/img/shopearn/flag-AU.png",
+		
+		"inject/img/st/close.png",
+		"inject/img/st/sbwatermark.png",
+	
+		"inject/img/case/left_non_active.png",
+		"inject/img/case/left_active.png",
+		"inject/img/case/right_non_active.png",
+		"inject/img/case/right_active.png",
+	
+		"img/pops/shop_earn.png",
+		"img/pops/search.png",
+		"img/pops/sb_change.png",
+		"img/pops/sbtv.png",
+		"img/pops/play.png",
+		"img/pops/discover.png",
+
+		"img/pops/sc.svg",
+		"img/pops/answer.svg",
+		"img/pops/account.svg",
+		"img/pops/close.svg",
+		"img/pops/scissors.svg",
+		"img/pops/i-icon.svg",
+
+		"_locales/en/messages.json",
+		"_locales/de/messages.json"
+
+	]
+}

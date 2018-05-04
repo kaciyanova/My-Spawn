@@ -1,0 +1,45 @@
+.answer_section{
+	margin-top: 70px;
+	text-align: center;
+	padding: 4px;
+}
+
+.answer_item {
+	float:left;
+	padding: 22px;
+}
+
+.answer_item h5{
+	margin-top: 5px;
+	color: #6a7380;
+	font-size: 13px;
+}
+
+.discover_section {
+	text-align: center;
+	padding: 4px;
+}
+
+.discover_item {
+	float:left;
+	width:95px;
+	padding-top:    15px;
+	padding-bottom: 15px;
+	padding-left:   20px;
+	padding-right:  20px;
+}
+
+.discover_item h5{
+	margin-top: 5px;
+	color: #6a7380;
+	font-size: 13px;
+}
+
+.surveyImg {
+	cursor: pointer;
+}
+
+.discoverImg {
+	cursor: pointer;
+}
+

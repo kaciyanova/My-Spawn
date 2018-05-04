@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html id="SE_option_html" style="height:100%">
+	<head>
+		<title l10n="swagbuttonSettings">__MSG_swagbuttonSettings__</title>
+		<link rel="stylesheet" href="popup/css/settings.css" />
+		<link rel="stylesheet" href="popup/css/login.css" />
+		<script src="js/jquery.js"></script> 
+		<script src="js/options.js"></script> 
+	</head>
+	<body id="SE_option_body" style="height:100%">
+		<div id="centerFloater"></div>
+		<div align="center" style="clear:both;">
+			<div class="logo_block">
+				<div class="logo float_left"></div>
+				<div id="logo_title" class="logo_title float_right" l10n="swagbuttonSettings">__MSG_swagbuttonSettings__</div>
+				<div style="clear:both;"></div>
+			</div>
+			<div id="wnd_main_content">
+				<div id="settings-content" class="main-content">
+					<div id="notif_wrap" style="margin-top: 0px;"> 
+						<div class="settings_ntf" style="margin-top: 0px;" l10n="settingNotification"> 
+							__MSG_settingNotification__
+						</div>
+						<div class="lp_hr hr_all"></div>
+						<div class="settings_prop">
+							<span l10n="accountBalanceAlerts">__MSG_accountBalanceAlerts__</span>
+							<div class="onoffswitch">
+								<input type="checkbox" checked="" class="onoffswitch-checkbox" id="isBalanceAlert" name="switch-default-state">
+								<label for="isBalanceAlert" class="onoffswitch-label">
+									<div class="onoffswitch-inner"></div>
+									<div class="onoffswitch-switch"></div>
+								</label>
+							</div>
+							<div class="help_text">
+								<span class="tooltip" l10n="surveyNotifyBecomeAvail">__MSG_surveyNotifyBecomeAvail__</span>
+							</div>
+						</div>
+						<div class="settings_prop">
+							<span l10n="surveyAlerts">__MSG_surveyAlerts__</span>
+							<div class="onoffswitch">
+								<input type="checkbox" checked="" class="onoffswitch-checkbox" id="isSurveyAlert" name="switch-default-state">
+								<label for="isSurveyAlert" class="onoffswitch-label">
+									<div class="onoffswitch-inner"></div>
+									<div class="onoffswitch-switch"></div>
+								</label>
+							</div>
+							<div class="help_text">
+								<span class="tooltip" l10n="surveyNotifyBecomeAvail">__MSG_surveyNotifyBecomeAvail__</span>
+							</div>
+						</div>
+					</div> 
+					<div id="settings_extra">
+						<div id="settings_wrap" style="margin-top: 0px;"> 
+						<div id="settings_ext" class="settings_ext" l10n="extras">
+							__MSG_extras__
+						</div>
+						<div class="settings_head" style="display:none" l10n="sorrySwagbuttonNotForYou">
+							__MSG_sorrySwagbuttonNotForYou__
+						</div>
+						<div class="settings_body" style="display:none">
+						</div>
+						</div>
+						<div class="lp_hr hr_all"></div>
+						<div class="settings_prop">
+							<span l10n="defaultSearchForSwagbucks">__MSG_defaultSearchForSwagbucks__</span>
+							<div class="onoffswitch">
+								<input type="checkbox" checked="" class="onoffswitch-checkbox" id="isSBSearch" name="switch-default-state"/>
+								<label for="isSBSearch" class="onoffswitch-label">
+									<div class="onoffswitch-inner"></div>
+									<div class="onoffswitch-switch"></div>
+								</label>
+							</div>
+							<div class="help_text help_text_super_long">
+								<span class="tooltip" l10n="useSbSearchNewTab">__MSG_useSbSearchNewTab__</span>
+							</div>
+						</div>
+						<div id="settings_newtab" class="settings_prop">
+							<span l10n="newTabOpensSearch">__MSG_newTabOpensSearch__</span>
+							<div class="onoffswitch">
+								<input type="checkbox" checked="" class="onoffswitch-checkbox" id="isNewTabSearch" name="switch-default-state">
+								<label for="isNewTabSearch" class="onoffswitch-label">
+									<div class="onoffswitch-inner"></div>
+									<div class="onoffswitch-switch"></div>
+								</label>
+							</div>
+							<div class="help_text">
+								<span class="tooltip" l10n="newTabOpensSearchDesc">__MSG_newTabOpensSearchDesc__</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		  <div id="swagButtonLegalDisclaimerWrap">    
+			  <div id="swagButtonLegalDisclaimerOpt">
+				<span l10n="byUsingSwagButton">__MSG_byUsingSwagButton__</span>
+				<a href="http://www.swagbucks.com/g/terms" target="_blank" data-url="http://www.swagbucks.com/g/terms" class="new_tab_link"><span l10n="termsOfUse">__MSG_termsOfUse__</span></a>,
+				<a href="http://www.swagbucks.com/g/privacy" target="_blank" data-url="http://www.swagbucks.com/g/privacy" class="new_tab_link"><span l10n="privacyPolicy">__MSG_privacyPolicy__</span></a> <span l10n="and">__MSG_and__</span>
+				<a href="http://www.swagbucks.com/extension/eula" target="_blank" data-url="http://www.swagbucks.com/extension/eula" class="new_tab_link"><span l10n="eula">__MSG_eula__</span></a> <span l10n="zu">__MSG_zu__</span>
+			</div>
+		  </div>
+
+		<div id="contBtnOuter">
+			<div id="contBtnWrap" class="btn_start">
+				<div id="contBtn" class="btn_start_title" l10n="saveAndContinue">&saveAndContinue;</div>
+				<div class="btn_start_arrow"></div>
+			</div>
+		</div>
+
+	</body>
+	<script type="text/javascript" src="js/SBExtension.js"></script>
+	<script type="text/javascript" src="browser/js/SBBrowserPopup.js"></script>
+	<!--CHROME--><script type="text/javascript" src="browser/chrome/js/SBBrowserPopupChrome.js"></script>
+	<script type="text/javascript" src="js/SBStorage.js"></script>
+	<script type="text/javascript" src="popup/js/settings.js"></script>
+</html>

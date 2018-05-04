@@ -1,0 +1,151 @@
+{
+    "extensionName": {
+        "message": "Send to Kindle for Google Chrome???",
+        "description": "Extension Name"
+    },
+    "extensionDescription": {
+        "message": "Sending and reading web content such as news articles and blog posts to your Kindle device or reading app is now easier than ever.",
+        "description": "Extension description for extension UI and download."
+    },  
+    "serviceUrl": {
+        "message": "https://www.amazon.com/gp/sendtokindle/service",
+        "description": "Send-to-Kindle Service URL"
+    },
+    "previewUrl": {
+        "message": "https://www.amazon.com/gp/sendtokindle/reader",
+        "description": "Send-to-Kindle Preview URL"
+    },
+    "setupUrl": {
+        "message": "https://www.amazon.com/gp/sendtokindle/setup",
+        "description": "Send-to-Kindle Setup URL"
+    },
+    
+    "legalNotice": {
+        "message": "Notice",
+        "description": "Legal Notice"
+    },
+    "legalNoticeLink": {
+        "message": "http://www.amazon.com/gp/help/customer/display.html?ref=ref=stk_gch_legal&nodeId=200978970",
+        "description": "Link to 'Legal Notice'"
+    },
+    "legalTerms": {
+        "message": "Terms of Use",
+        "description": "Legal Notice"
+    },
+    "legalTermsLink": {
+        "message": "http://www.amazon.com/gp/help/customer/display.html?ref=stk_gch_terms&nodeId=200506200",
+        "description": "Link to 'Terms of Use'"
+    },    
+    
+    "popUpSendToKindle": {
+        "message": "Send to Kindle",
+        "description": "PopUp text for S2K."
+    },    
+    "popUpPreviewAndSend": {
+        "message": "Preview & Send",
+        "description": "PopUp text for preview."
+    },
+    "popUpSendSelectedText": {
+        "message": "Send Selected Text",
+        "description": "PopUp text for sending selected text."
+    },
+    "popUpOptions": {
+        "message": "Settings",
+        "description": "PopUp text for Amazon options page."
+    },
+    "popUpShortcuts": {
+        "message": "Shortcuts",
+        "description": "PopUp text for shortcut settings."
+    },
+    "popUpHistory": {
+        "message": "History",
+        "description": "PopUp text for extraction history."
+    },
+    
+    "ctxSendToKindle": {
+        "message": "Send to Kindle",
+        "description": "Context menu text for S2K"
+    },
+    
+    "options": {
+        "message": "Send to Kindle :: Options",
+        "description": "Option page title."
+    },
+    "optKeyboardShortcut": {
+        "message": "Keyboard Shortcuts",
+        "description": "Header text for keyboard shortcuts."
+    },
+    "optKSInfo": {
+        "message": "To change, click on the box below and choose key combination on your keyboard:",
+        "description": "Information text for keyboard shortcuts."
+    },
+    "kbsCtrl": {
+        "message": "CTRL",
+        "description": "Name for control key."
+    },
+    "kbsAlt": {
+        "message": "ALT",
+        "description": "Name for alt. key."
+    },
+    "kbsShift": {
+        "message": "SHIFT",
+        "description": "Name for shift key."
+    },
+    "kbsArrowLeft": {
+        "message": "ARROW LEFT",
+        "description": "Name for left arrow."
+    },
+    "kbsArrowRight": {
+        "message": "ARROW RIGHT",
+        "description": "Name for right arrow."
+    },
+    "kbsArrowUp": {
+        "message": "ARROW UP",
+        "description": "Name for up arrow."
+    },
+    "kbsArrowDown": {
+        "message": "ARROW DOWN",
+        "description": "Name for down arrow."
+    },
+    "optDelivery": {
+        "message": "Looking for your delivery options? ",
+        "description": "Information text device settings."
+    },
+    "optDeliveryLink": {
+        "message": "Click here",
+        "description": "Information text device settings link."
+    },
+    
+    "history": {
+        "message": "Send to Kindle :: History",
+        "description": "Title for history view"
+    },
+    "historyTableHeader": {
+        "message": "Send to Kindle URL History",
+        "description": "Table header for S2K History"
+    },
+    "historyNoData": {
+        "message": "Sorry, Send to Kindle history is not available.",
+        "description": "Message for empty history."
+    },
+    "historyToday": {
+        "message": "Today",
+        "description": "Timespan 'today'"
+    },
+    "historyYesterday": {
+        "message": "Yesterday",
+        "description": "Timespan 'Yesterday'"
+    },
+    "historyDaysAgo": {
+        "message": " Days Ago",
+        "description": "Timespan 'n Days Ago'"
+    },
+    "historyClearAll": {
+        "message": " clear all",
+        "description": "Action to clear history."
+    },
+    "historyClose": {
+        "message": " close",
+        "description": "Action to close history."
+    }
+}
