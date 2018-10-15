@@ -13,6 +13,8 @@ namespace tfwYouWantToSleepButSeeTheStarsToo
 
         static void Main(string[] args)
         {
+            
+
             var city = "prg";
             var wakeTime = new TimeOfDay { Hours = 9, Minutes = 30 };
 
