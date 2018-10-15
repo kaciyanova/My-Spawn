@@ -6,8 +6,8 @@ int main(int argc,char **argv)
 {
 
 		for (;;){
-				char buffer[10];
 								char name[50];
+char croppedName[50];
 
 		printf("gimme ya fuckin name!!");
 				fgets(name,50,stdin);
@@ -15,19 +15,21 @@ int main(int argc,char **argv)
 				if (name==0)
 				{
 break;				}
-		int length=strlen(name)+4;
+		int length=strlen(name)+2;
+int nameLength=strlen(name);
+strtok(name,"\n");
 
 for (int i=0;i<=length; i++)
 		{
 						printf("*");
-					}
+		}
 		printf("\n");
 						printf("*");
 						printf(" ");
 						printf(name);
-						// printf(" ");
+						printf(" ");
 						printf("*");
-		printf("\n");
+		printf(" \n");
 							
 							for (int i=0;i<=length; i++)
 		{

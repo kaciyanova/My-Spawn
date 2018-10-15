@@ -1,0 +1,841 @@
+ 
+<!-- THEME 8 by ADRIANIVASHKOVS.TUMBLR.COM-->
+ 
+ 
+ 
+ 
+<!------------
+ 
+ 
+ 
+ 
+    p l e a s e    r e a d
+   
+    by using my themes, you’ve agreed to the following conditions:
+    don't steal my codes,
+    don't use them as base,
+    don't claim them as your own,
+    leave all credit intact.
+   
+   
+   
+   
+   
+    ------------>
+   
+   
+   
+ 
+<html><head>
+<title>"a nice cup of tea and a civil interrogation"</title>
+{block:Description}<meta name="description" content="{MetaDescription}" />{/block:Description}
+<link rel="shortcut icon" href="{Favicon}" />
+<link rel="alternate" type="application/rss+xml" href="{RSS}" />
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+ 
+    <meta name="color:highlight" content="#DBE2EA" />
+    <meta name="color:background" content="#FFFFFF" />
+    <meta name="color:postinfo" content="#FCFCFC" />
+    <meta name="color:link" content="#575757" />
+    <meta name="color:hover" content="#000000" />
+    <meta name="color:text" content="#606060" />
+    <meta name="color:border" content="#CCCCCC" />
+    <meta name="color:title" content="#494949" />
+    <meta name="color:navigation link" content="#9A9A9A" />
+    <meta name="color:description text" content="#606060" />
+    <meta name="color:audio text" content="#535353" />
+    <meta name="color:question" content="#FCFCFC" />
+    <meta name="color:chat" content="#F8F8F8" />  
+    <meta name="color:chat text" content="#868686" />
+   
+    <meta name="color:italic" content="#000000" />  
+    <meta name="color:bold" content="#000000" />
+       
+            <meta name="if:Lazy Load" content="0" />
+            <meta name="if:Posts 400px" content="0" />
+           
+        <meta name="text:title 1" content="first title" />
+        <meta name="text:title 2" content="and this is your second title" />
+       
+            <meta name="text:font family body" content="garamond"/>
+            <meta name="text:font family description" content="garamond"/>
+            <meta name="text:font family title" content="garamond"/>
+           
+                <meta name="text:link1" content="/" />
+                <meta name="text:link1 title" content="link one" />
+                <meta name="text:link2" content="/" />
+                <meta name="text:link2 title" content="link two" />
+                <meta name="text:link3" content="/" />
+                <meta name="text:link3 title" content="link three" />
+ 
+<!--- lazy load--->
+ 
+{block:ifLazyLoad}
+<script type="text/javascript" src="http://static.tumblr.com/bmdsqsc/8mXm7q8vn/jquery.js"></script>
+<script type="text/javascript" src="http://static.tumblr.com/bmdsqsc/ogWm7q8w1/lazyload.js"></script>
+<script type="text/javascript" charset="utf-8">
+var $j = jQuery.noConflict();
+$j(function() {
+if (navigator.platform == "iPad" || navigator.platform == "iPhone") return;
+$j("img").lazyload({
+placeholder : "http://static.tumblr.com/twte3d7/RSvlio0k5/grey.gif",
+effect: "fadeIn",
+});
+});
+</script>
+{/block:ifLazyLoad}
+ 
+<!--- tooltips --->
+ 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" src="http://static.tumblr.com/ko1mcho/PMbmlkh9e/jquery.style-my-tooltips.js"></script>
+<script>
+(function($){
+$(document).ready(function(){
+$("[title],a[title],img[title]").style_my_tooltips({
+tip_follows_cursor:"true",
+tip_delay_time:100,
+tip_fade_speed:100,
+attribute:"title"
+});
+});
+})(jQuery);
+</script>
+ 
+<style type="text/css">
+ 
+/*<!--- tumblr controls --->*/
+ 
+iframe#tumblr_controls {
+    white-space:nowrap;
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%);
+    -o-filter: invert(100%);
+    -ms-filter: invert(100%); filter: invert(100%);
+    opacity:0.5;
+    transition: .8s ease-in-out;
+    -webkit-transition: .8s ease-in-out;
+    -moz-transition: .8s ease-in-out;
+    -o-transition: .8s ease-in-out;
+    }
+ 
+/*<!--- tooltips --->*/
+ 
+#s-m-t-tooltip {
+    color:{color:text};
+    background-color:{color:background};
+    display:none;
+    text-align:left;
+    position:absolute;
+    z-index:9999;
+    font-size:8px;
+    font-family:{text:font family body};
+    text-transform:uppercase;
+    padding:1px 5px 1px 5px;
+    margin-top:27px;
+    -webkit-transition:all 0.2s ease-out
+    -moz-transition:all 0.2s ease-out;
+    transition:all 0.2s ease-out;
+    }
+ 
+/*<!--- scrollbar --->*/
+ 
+::-webkit-scrollbar {  
+    width:12px;  
+    }  
+   
+    ::-webkit-scrollbar-track {  
+    background-color:#eaeaea;  
+    border-left:1px solid {color:border};  
+    }  
+   
+    ::-webkit-scrollbar-thumb {  
+    background-color:#ccc;  
+    }  
+   
+    ::-webkit-scrollbar-thumb:hover {  
+    background-color:#aaa;  
+    }  
+   
+    ::selection {
+    background: {color:highlight};
+    }
+   
+    ::-moz-selection {
+    background: {color:highlight};
+    }
+   
+/*<!--- basics --->*/
+   
+h1 {
+    font-size:15px;
+    font-weight:bold;
+    margin-top:0px;
+    text-transform:normal;
+    letter-spacing:1px;
+    font-family:{text:font family body};
+    text-align:left;
+    margin-left:0px;
+    line-height:18px;
+    font-style:normal;
+    }  
+ 
+h2 {
+    font-size:15px;
+    {block:IfNotPosts400px}
+    width:500px;
+    {/block:IfNotPosts400px}
+    {block:IfPosts400px}
+    width:400px;
+    {/block:IfPosts400px}
+    font-family:georgia;
+    text-transform:uppercase;
+    line-height:18px;
+    text-align:left;
+    margin-top:0px;
+    font-size:11px;
+    letter-spacing:1px;
+    color:{color:link};
+    font-weight:normal;
+    }
+   
+h3 {
+    font-size:11px;
+    line-height:17px;
+    letter-spacing:1px;
+    font-family:{text:font family body};
+    font-weight:bold;
+    margin-top:0px;
+    padding-bottom:5px;
+    text-align:center;
+    {block:IfNotPosts400px}
+    width:500px;
+    {/block:IfNotPosts400px}
+    {block:IfPosts400px}
+    width:400px;
+    {/block:IfPosts400px}
+    }
+ 
+h4 {
+    margin-top:3px;
+    width:100px;
+    display:inline-block;
+    }
+   
+h4 a {
+    font-size:12px;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    font-family:{text:font family body};
+    padding:4px 6px 4px 6px;
+    background:#fcfcfc;
+    border:1px dashed {color:border};
+    }
+       
+b  {
+    color:{color:bold};
+    }
+   
+i  {
+    color:{color:italic};
+    font-weight:bold;
+    }
+ 
+body {
+    color:{color:text};
+    background-color:{color:background};
+    font-style:normal;
+    font-family:{text:font family body};
+    text-align:justify;
+    font-size:11px;
+    text-decoration:none;
+    line-height:18px;
+    }
+ 
+a {
+    color:{color:link};
+  
+    text-decoration:none;    
+    -webkit-transition:opacity 0.8s linear;
+    -webkit-transition:all 0.5s ease-out;
+    -moz-transition:all 0.5s ease-out;
+    transition:all 0.5s ease-out;
+    }
+ 
+    a:hover {
+    color:{color:hover};
+    -webkit-transition:opacity 0.8s linear;
+    -webkit-transition:all 0.5s ease-out;
+    -moz-transition:all 0.5s ease-out;
+    transition:all 0.5s ease-out;}
+   
+#container {
+    width:900px;
+    margin:0 auto;
+    }
+   
+#entries {
+    position:absolute;
+    margin-left:350px;
+    padding-top:26px;
+    padding-left:13px;
+    padding-right:5px;
+    margin-top:100px;
+    {block:IfNotPosts400px}
+    width:530px;
+    {/block:IfNotPosts400px}
+    {block:IfPosts400px}
+    width:430px;
+    {/block:IfPosts400px}
+    }
+ 
+#posts {
+    {block:IfNotPosts400px}
+    width:500px;
+    {/block:IfNotPosts400px}
+    {block:IfPosts400px}
+    width:400px;
+    {/block:IfPosts400px}
+    color:{color:text};
+    margin-left:0px;
+    margin-top:70px;
+    }
+ 
+/*<!--- postinfo --->*/
+ 
+#postinfo {
+    margin-top:15px;
+    padding-top:5px;
+    padding-bottom:7px;
+    letter-spacing:2px;
+    word-spacing:1px;
+    border:1px solid {color:border};
+    margin-left:0px;
+    background-color:{color:postinfo};
+    padding-left:10px;
+    padding-right:10px;
+    text-align:center;
+    font-weight:bold;
+    text-transform:uppercase;
+    color:{color:link};
+    font-size:9px;
+    {block:IfNotPosts400px}
+    width:480px;
+    {/block:IfNotPosts400px}
+    {block:IfPosts400px}
+    width:380px;
+    {/block:IfPosts400px}
+    }
+   
+    #postinfo a {
+    color:{color:link};
+    line-height:16px;
+    font-weight:bold;
+    font-size:8px;
+    text-transform:uppercase;
+    padding:0px 5px 0px 5px;
+    }    
+   
+    #postinfo a:hover {
+    color:{color:hover};
+    }
+   
+    #tags {
+    line-height:16px;
+    margin-top:5px;
+    font-size:10px;
+    text-align:center;
+    letter-spacing:1px;
+    padding-left:3px;
+    padding-right:3px;
+    {block:IfNotPosts400px}
+    width:493px;
+    {/block:IfNotPosts400px}
+    {block:IfPosts400px}
+    width:393px;
+    {/block:IfPosts400px}
+    padding-bottom:3px;
+    font-style:italic;
+    word-spacing:3px;
+    }
+ 
+/*<!--- sidebar --->*/
+ 
+#sidebar {
+    position:fixed;
+    width:215px;
+    margin-left:80px;
+    border-right:1px solid {color:border};
+    margin-top:193px;
+    }
+ 
+#description {
+    font-family:{text:font family description};
+    font-size:9px;
+    text-align:right;
+    letter-spacing:1px;
+    line-height:17px;
+    width:170px;
+    padding:0px 15px 10px 15px;
+    margin-top:0px;
+    color:{color:description text};
+    margin-left:1px;
+    }    
+ 
+#links {
+    margin-top:0px;
+    text-align:right;
+    margin-left:15px;
+    width:170px;
+    padding-bottom:5px;
+    }
+   
+    #links a {
+    font-family:{text:font family description};
+    padding-left:5px;
+    display:inline-block;
+    margin-bottom:5px;
+    text-align:left;
+    word-spacing:2px;
+    color:{color:link};
+    font-size:9px;
+    font-weight:bold;
+    }
+   
+    #links a:hover {
+    color:{color:hover};
+    }
+ 
+ 
+#pag {
+    margin-top:8px;
+    margin-left:10px;
+    padding-top:17px;
+    width:180px;
+    border-top:1px solid {color:border};
+    text-align:right;
+    }
+   
+    #pag a {
+    font-size:9px;
+    font-weight:bold;
+    font-family:garamond;
+    padding:4px;
+    word-spacing:7px;
+    letter-spacing:1px;
+    }
+     
+ #title {
+    margin-bottom:6px;
+    font-style:none;
+    margin-left:370px;
+    text-align:center;
+    position:absolute;
+    {block:IfNotPosts400px}width:490px;{/block:IfNotPosts400px}
+    {block:IfPosts400px}width:390px;{/block:IfPosts400px}
+    line-height:20px;
+    margin-top:90px;
+    text-transform:lowercase;
+    letter-spacing:1px;
+    z-index:999;
+    font-size:14px;
+    padding-bottom:15px;
+    }  
+   
+#title a {
+    color:{color:title};
+    background-color:{color:background};
+    padding:1px 6px 1px 6px;
+    font-family:{text:font family title};
+    z-index:999;
+    font-weight:bold;
+    }
+   
+/*<!--- blockquote --->*/
+ 
+.blockquote, blockquote {
+    margin-left:0px;
+    letter-spacing:0px;
+    {block:IfNotPosts400px}
+    width:490px;
+    {/block:IfNotPosts400px}
+    {block:IfPosts400px}
+    width:390px;
+    {/block:IfPosts400px}
+    padding-left:10px;
+    border-left:1px solid {color:text};  
+    }
+   
+    blockquote, small {
+    font-size:10px;
+    }    
+ 
+    blockquote img {
+    max-width:300px;
+    }
+ 
+/*<!--- chat --->*/
+   
+.chat {
+    list-style:none;
+    line-height:12px;
+    {block:IfNotPosts400px}
+    width:495px;
+    {/block:IfNotPosts400px}
+    {block:IfPosts400px}
+    width:395px;
+    {/block:IfPosts400px}
+    }
+   
+    .chat ul {
+    line-height:15px;
+    list-style:none;
+    padding:0px;
+    line-height:20px;
+    }
+ 
+    .person1 {
+    padding:5px;
+    background-color:{color:background};
+    color:{color:chat text};
+    }
+   
+    .person1 .label {
+    font-weight:bold;
+    }
+   
+    .person2 {
+    padding:5px;
+    background-color:{color:chat};
+    border:1px solid {color:border};
+    color:{color:chat text};
+    }
+   
+    .person2 .label {
+    font-weight:bold;
+    }
+ 
+/*<!--- credit --->*/
+   
+#credit {
+    right:10px;
+    bottom:7px;
+    padding:5px;
+    background:transparent;
+    font-size:8px;
+    position:fixed;
+    font-weight:bold;
+    font-family:garamond;
+    }
+   
+    #credit a {
+    color:{color:link};
+    padding:5px;
+    letter-spacing:1px;
+    font-weight:bold;
+    }
+   
+/*<!--- ask --->*/
+ 
+#ask {
+    letter-spacing:0px;
+    margin-top:2px;
+    {block:IfNotPosts400px}width:500px;{/block:IfNotPosts400px}
+    {block:IfPosts400px}width:400px;{/block:IfPosts400px}
+    margin-bottom:5px;  
+    font-size:11px;
+    margin-left:-1px;
+    padding-bottom:3px;
+    border:1px solid {color:border};
+    font-family:{text:font family body};
+    text-align:block;
+    }
+   
+    #question {
+    {block:IfNotPosts400px}width:470px;{/block:IfNotPosts400px}
+    {block:IfPosts400px}width:370px;{/block:IfPosts400px}
+    margin-left:0px;
+    background-color:{color:question};
+    padding:15px;
+    border-bottom:1px solid {color:border};
+    margin-top:0px;
+    }
+   
+    #ask a {
+    padding-left:0px;
+    }
+   
+/*<!--- audio --->*/
+ 
+#cover img {
+    width:150px;
+    height:150px;
+    float:left;
+    }
+   
+.audioplayer {
+    width:24px;
+    height:24px;
+    margin-top:47px;
+    margin-left:47px;
+    overflow:hidden;
+    padding:3px;
+    }
+   
+#audioplayerbackground {
+    position:absolute;
+    z-index:1;
+    width:130px;
+    height:130px;
+    margin-top:10px;
+    margin-left:10px;
+    background:#fff;
+    opacity:0.3;
+    -webkit-transition:opacity 0.8s linear;
+    -webkit-transition:all 0.5s ease-out;
+    -moz-transition:all 0.5s ease-out;
+    transition:all 0.5s ease-out;
+    }
+   
+#audioplayerbackground:hover {
+    opacity:.7;
+    -webkit-transition:opacity 0.8s linear;
+    -webkit-transition:all 0.5s ease-out;
+    -moz-transition:all 0.5s ease-out;
+    transition:all 0.5s ease-out;
+    }
+ 
+.info {
+    {block:IfNotPosts400px}width:290px;{/block:IfNotPosts400px}
+    {block:IfPosts400px}width:190px;{/block:IfPosts400px}
+    height:100px;
+    margin-left:180px;
+    display:block;
+    margin-top:0px;
+    padding-top:50px;
+    font-family:{text:font family body};
+    font-size:10px;
+    letter-spacing:0px;
+    letter-spacing:1px;
+    border-left:1px solid {color:border};
+    padding-left:30px;
+    text-align:left;
+    color:{color:audio text};
+    }
+   
+/*<!--- notes --->*/
+ 
+ol.notes {
+    padding:0px;
+    {block:IfNotPosts400px}width:500px;{/block:IfNotPosts400px}
+    {block:IfPosts400px}width:400px;{/block:IfPosts400px}
+    margin-left:0px;
+    font-style:italic;
+    padding-top:10px;
+    border:1px solid {color:border};
+    list-style-type:none;
+    background-color:{color:postinfo};
+    }
+ 
+    ol.notes li.note {
+    padding:10px;
+    }
+ 
+    ol.notes li.note img.avatar {
+    vertical-align:-4px;
+    margin-right:10px;
+    opacity:0;
+    width:8px;
+    height:8px;
+    }
+ 
+    ol.notes li.note blockquote {
+    padding:4px 10px;
+    {block:IfNotPosts400px}width:400px;{/block:IfNotPosts400px}
+    {block:IfPosts400px}width:300px;{/block:IfPosts400px}
+    margin:10px 0px 0px 25px;
+    }
+   
+</style><style type="text/css">{CustomCSS}</style>
+
+
+</head><body>
+
+<div id="container">
+ 
+<div id="sidebar">
+ 
+<div id="description">{Description}</div>
+ 
+<div id="links">
+<a href="/">home / </a>
+
+{block:ifLink1}<a href="{text:link1}">{text:link1 title} / </a>{/block:ifLink1}
+{block:ifLink2}<a href="{text:link2}">{text:link2 title}</a>{/block:ifLink2}
+{block:ifLink3}<a href="{text:link3}"> / {text:link3 title}</a>{/block:ifLink3}
+
+</div>
+ 
+<div id="pag">
+
+{block:Pagination}{block:PreviousPage}<a href="{PreviousPage}"> &laquo; </a>{/block:PreviousPage}{/block:Pagination}
+{block:JumpPagination length="5"}
+{block:CurrentPage}<span class="pagination_a"><b>&nbsp; {PageNumber} &nbsp;</b></span>{/block:CurrentPage}
+{block:JumpPage}<a class="jump_page" href="{URL}">{PageNumber}</a>{/block:JumpPage}
+{/block:JumpPagination}
+{block:Pagination}{block:NextPage}<a href="{NextPage}"> &raquo; </a>{/block:NextPage}{/block:Pagination}
+
+</div>
+
+</div>
+	<div id="title"><a href="/">{text:title 1}</a> <br>			
+	<a href="/"><font style="padding-top:4px;font-size:10px;text-transform:uppercase;">{text:title 2}</font></a>    			
+	</div>
+   
+<div id="entries">
+ 
+{block:Posts}
+ 
+<div id="posts">
+ 
+{block:Text}
+{block:Title}<h1>{Title}</h1>{/block:Title}<center><div style="text-align:left;">{Body}</div></center>
+{/block:Text}
+ 
+{block:Quote}
+<h3>“ {Quote} ”</h3><center><font style="letter-spacing:1px;">↳ {Source}
+<br><br></center> </font>
+{/block:Quote}
+ 
+{block:Link}
+<a href="{URL}"><h1>{Name}</h1></a>
+{block:Description}{Description}{/block:Description}
+{/block:Link}
+ 
+{block:Photo}
+{LinkOpenTag}
+{block:IfNotPosts400px}<img src="{PhotoURL-500}" alt="{PhotoAlt}"/>{block:Caption}{Caption}{/block:Caption}{/block:IfNotPosts400px}{block:IfPosts400px}<img src="{PhotoURL-400}" alt="{PhotoAlt}"/>{block:Caption}{Caption}{/block:Caption}{block:IfPosts400px}
+{LinkCloseTag}
+{/block:Photo}
+ 
+{block:Photoset}
+{block:IfNotPosts400px}{Photoset-500}{block:Caption}{Caption}{/block:Caption}{block:IfNotPosts400px}{block:IfPosts400px}{Photoset-400}{block:Caption}{Caption}{/block:Caption}{/block:IfPosts400px}
+{/block:Photoset}
+ 
+{block:Video}
+{block:IfNotPosts400px}{Video-500}{block:Caption}{Caption}{/block:Caption}{block:IfNotPosts400px}{block:IfPosts400px}{Video-400}{block:Caption}{Caption}{/block:Caption}{/block:IfPosts400px}
+{/block:Video}
+ 
+{block:Chat}
+{block:Title}<a href="{Permalink}">{Title}</a>{/block:Title}
+<div class="chat"><ul>{block:Lines}<li class="person{UserNumber}">{block:Label}<span class="label">{Label} &nbsp;  &nbsp; </span>{/block:Label} {Line}</li>{/block:Lines}</ul></div>
+{/block:Chat}
+ 
+{block:Answer}
+<div id="ask">
+<div id="question">{asker}: &nbsp; {Question}</div><div style="padding:5px 15px 5px 15px;">{answer}</div></div>
+{/block:Answer}
+ 
+{block:Audio}
+{block:AlbumArt}<div id="cover"><img src="{AlbumArtURL}"></div>{/block:AlbumArt}
+<div id="audioplayerbackground">
+<div class="audioplayer">{AudioPlayerwhite}</div></div>
+<div class="info">
+{block:TrackName}{TrackName}{/block:TrackName} <br>
+{block:Artist}{Artist}{/block:Artist} <br>
+{FormattedPlayCount} plays
+</div>
+{block:Caption}<br>{Caption}{/block:Caption}
+{/block:Audio}
+ 
+<div style="margin-top:5px;">
+{block:Date}
+<div id="postinfo">
+<a href="{Permalink}" title="{Month} {DayOfMonthWithZero}, {Year}">{DayOfMonthWithZero}/{MonthNumberWithZero}/{ShortYear}</a>at {12Hour}:{Minutes}{CapitalAmPm}
+{block:NoteCount}<a href="{Permalink}"> {notecount}n </a>{/block:Notecount}<a href="{ReblogURL}" target="_blank">reblog</a>
+{block:RebloggedFrom}<a href="{ReblogParentURL}" title="{ReblogParentName}">via</a><a href="{ReblogRootURL}" title="{ReblogRootName}">©</a>{/block:RebloggedFrom}
+{block:ContentSource}<!-- {SourceURL}{block:SourceLogo}<img src="{BlackLogoURL}"width="{LogoWidth}" height="{LogoHeight}" alt="{SourceTitle}" />{/block:SourceLogo}{block:NoSourceLogo}{SourceLink}{/block:NoSourceLogo} -->{/block:ContentSource}</div>
+{/block:Date}
+</div>
+ 
+<div id="tags">
+{block:Tags}
+<img src="http://static.tumblr.com/4oreovg/7gOn8qtas/tumblr_mf1q086pet1ruid57.png" width="6"><a href="/tagged/{Tag}"> {Tag}</a>
+{/block:Tags}
+</div>
+ 
+<br><br><br>
+ 
+{block:PostNotes}{PostNotes}{/block:PostNotes}
+ 
+{/block:Posts}
+    <div style="height: 50px;position:fixed;bottom:150px;right:1000px;">
+ 
+ <script language="JavaScript">
+<!--
+
+/*
+Random Image Script- By JavaScript Kit (http://www.javascriptkit.com) 
+Over 400+ free JavaScripts here!
+Keep this notice intact please
+*/
+
+function random_imglink(){
+var myimages=new Array()
+//specify random images below. You can have as many as you wish
+
+myimages[1]="http://i1272.photobucket.com/albums/y384/WillowMaclay/tetrahedron_tetrahedron_zpshnzpnjkt.gif"
+myimages[2]="http://i1272.photobucket.com/albums/y384/WillowMaclay/giphy%201_zpsxjwfik7w.gif"
+myimages[3]="http://i1272.photobucket.com/albums/y384/WillowMaclay/giphy_zps9zdxyhzk.gif"
+myimages[4]="http://i1272.photobucket.com/albums/y384/WillowMaclay/giphy%206_zpsndyxvrrx.gif"
+myimages[5]="http://media.giphy.com/media/XO9OBk6WNWIs8/giphy.gif"
+myimages[6]="http://media.giphy.com/media/riJiKHK9DNEzu/giphy.gif"
+myimages[7]="http://i1272.photobucket.com/albums/y384/WillowMaclay/giphy%202_zpsjkxbh3bj.gif"
+myimages[8]="http://media.giphy.com/media/qBUJtPlb32CVq/giphy.gif"
+myimages[9]="http://media.giphy.com/media/LU4yhvZPbccSc/giphy.gif"
+myimages[10]="http://media.giphy.com/media/6kWeKUFko31As/giphy.gif"
+myimages[11]="http://media1.giphy.com/media/pZREZQ5wQrogo/giphy.gif"
+myimages[12]="http://giphy.com/gifs/transparent-colors-spin-auH01OD6bxk08"
+myimages[13]="http://giphy.com/gifs/89a-transparent-design-shape-11HTpiepBn14AM"
+myimages[14]="http://giphy.com/gifs/animated-gif-pyramid-kGlmrxXqPKso0"
+
+
+var ry=Math.floor(Math.random()*myimages.length)
+if (ry==0)
+ry=1
+document.write('<img src="'+myimages[ry]+'" border=0 height="200px>')
+}
+random_imglink()
+//-->
+</script>
+ </div>
+</div>
+
+<div style=position:fixed;bottom:0px;right:0px;">
+
+<div id="credit"><a href="http://adrianivashkovs.tumblr.com/">A I</a></div>
+ </div>
+</div></div></div></div>
+  
+
+
+</body>
+
+ <!-- Start of StatCounter Code for Tumblr -->
+<script type="text/javascript">
+var sc_project=7349169; 
+var sc_invisible=1; 
+var sc_security="9bbe6a43"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="tumblr stats"
+href="http://statcounter.com/tumblr/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/7349169/0/9bbe6a43/1/"
+alt="tumblr stats"></a></div></noscript>
+<!-- End of StatCounter Code for Tumblr -->
+</html>

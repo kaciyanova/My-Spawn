@@ -1,0 +1,37 @@
+Catalyst Control Center Next Localization R
+Catalyst Control Center Next Localization JA
+Catalyst Control Center Next Localization NL
+Catalyst Control Center Next Localization FI
+Catalyst Control Center Next Localization HU
+Catalyst Control Center Next Localization FR
+Catalyst Control Center Next Localization NO
+Catalyst Control Center Next Localization SV
+Catalyst Control Center Next Localization EL
+Catalyst Control Center Next Localization ES
+Catalyst Control Center Next Localization KO
+Catalyst Control Center Next Localization DE
+Catalyst Control Center Next Localization CHS
+Catalyst Control Center Next Localization CHT
+Catalyst Control Center Localization All
+Catalyst Control Center Next Localization DA
+Catalyst Control Center Graphics Previews Common
+Catalyst Control Center Next Localization TR
+Catalyst Control Center Next Localization BR
+Catalyst Control Center Next Localization TH
+Catalyst Control Center - Branding
+Catalyst Control Center Next Localization PL
+Catalyst Control Center Next Localization IT
+Catalyst Control Center Next Localization CS
+AMD Steady Video Plug-In
+AMD Wireless Display v3.0
+AMD Radeon Settings
+MSVCRT110_amd64
+AMD Settings - Branding
+AMD Drag and Drop Transcoding
+AMD Problem Report Wizard
+AMD DVR64
+AMD Wireless Display v3.0
+AMD Software
+AMD Settings
+AMD Wireless Display v3.0
+AMD Fuel
