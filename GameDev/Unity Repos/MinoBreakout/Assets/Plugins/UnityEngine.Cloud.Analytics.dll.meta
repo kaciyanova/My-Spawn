@@ -1,93 +1,169 @@
 fileFormatVersion: 2
 guid: 261aaff689ae44136aca395fab560fe0
-timeCreated: 1443473776
-licenseType: Pro
 PluginImporter:
-  serializedVersion: 1
+  externalObjects: {}
+  serializedVersion: 2
   iconMap: {}
   executionOrder: {}
   isPreloaded: 0
+  isOverridable: 0
   platformData:
-    Android:
+  - first:
+      '': BlackBerry
+    second:
       enabled: 1
       settings: {}
-    Any:
+  - first:
+      '': GLESEmu
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      '': OSXIntel
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      '': OSXIntel64
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      '': PS3
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      '': PSM
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      '': SamsungTV
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      '': Tizen
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      '': WP8
+    second:
       enabled: 0
       settings: {}
-    BlackBerry:
+  - first:
+      '': Web
+    second:
       enabled: 1
       settings: {}
-    Editor:
+  - first:
+      '': WebStreamed
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      '': Xbox360
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      Android: Android
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      Any: 
+    second:
+      enabled: 0
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
       enabled: 1
       settings:
         DefaultValueInitialized: true
-    GLESEmu:
+  - first:
+      Facebook: WebGL
+    second:
       enabled: 1
       settings: {}
-    Linux:
+  - first:
+      Facebook: Win
+    second:
       enabled: 1
       settings: {}
-    Linux64:
+  - first:
+      Facebook: Win64
+    second:
       enabled: 1
       settings: {}
-    LinuxUniversal:
+  - first:
+      PS4: PS4
+    second:
       enabled: 1
       settings: {}
-    OSXIntel:
+  - first:
+      PSP2: PSP2
+    second:
       enabled: 1
       settings: {}
-    OSXIntel64:
+  - first:
+      Standalone: Linux
+    second:
+      enabled: 1
+      settings:
+        CPU: 
+  - first:
+      Standalone: Linux64
+    second:
+      enabled: 1
+      settings:
+        CPU: 
+  - first:
+      Standalone: LinuxUniversal
+    second:
+      enabled: 1
+      settings:
+        CPU: 
+  - first:
+      Standalone: OSXUniversal
+    second:
+      enabled: 1
+      settings:
+        CPU: 
+  - first:
+      Standalone: Win
+    second:
+      enabled: 1
+      settings:
+        CPU: 
+  - first:
+      Standalone: Win64
+    second:
+      enabled: 1
+      settings:
+        CPU: 
+  - first:
+      WebGL: WebGL
+    second:
       enabled: 1
       settings: {}
-    OSXUniversal:
-      enabled: 1
-      settings: {}
-    PS3:
-      enabled: 1
-      settings: {}
-    PS4:
-      enabled: 1
-      settings: {}
-    PSM:
-      enabled: 1
-      settings: {}
-    PSP2:
-      enabled: 1
-      settings: {}
-    SamsungTV:
-      enabled: 1
-      settings: {}
-    Tizen:
-      enabled: 1
-      settings: {}
-    WP8:
+  - first:
+      Windows Store Apps: WindowsStoreApps
+    second:
       enabled: 0
-      settings: {}
-    Web:
+      settings:
+        CPU: AnyCPU
+  - first:
+      XboxOne: XboxOne
+    second:
       enabled: 1
       settings: {}
-    WebGL:
-      enabled: 1
-      settings: {}
-    WebStreamed:
-      enabled: 1
-      settings: {}
-    Win:
-      enabled: 1
-      settings: {}
-    Win64:
-      enabled: 1
-      settings: {}
-    WindowsStoreApps:
-      enabled: 0
-      settings: {}
-    Xbox360:
-      enabled: 1
-      settings: {}
-    XboxOne:
-      enabled: 1
-      settings: {}
-    iOS:
+  - first:
+      iPhone: iOS
+    second:
       enabled: 1
       settings: {}
   userData: 

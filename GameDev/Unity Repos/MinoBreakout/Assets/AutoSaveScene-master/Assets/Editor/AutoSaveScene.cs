@@ -56,7 +56,7 @@ public class AutoSaveScene
 		var folder = Path.Combine("Assets", SAVE_FOLDER);
 
 		EditorApplication.SaveScene(Path.Combine(folder, newName), true);
-		EditorApplication.SaveAssets();
+		AssetDatabase.SaveAssets();
 	}
 
 	/// <summary>

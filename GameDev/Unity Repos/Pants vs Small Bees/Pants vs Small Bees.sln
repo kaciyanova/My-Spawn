@@ -1,11 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{FAB65B0A-3FA8-F6CB-A3C1-B7877982B540}") = "Pants vs Small Bees", "Assembly-CSharp.csproj", "{CCC9CAFE-39AA-BAB9-77D5-586F4847E54B}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pants vs Small Bees", "Assembly-CSharp.csproj", "{CCC9CAFE-39AA-BAB9-77D5-586F4847E54B}"
 EndProject
-Project("{FAB65B0A-3FA8-F6CB-A3C1-B7877982B540}") = "Pants vs Small Bees", "Assembly-CSharp-Editor.csproj", "{D8F4B241-3DD8-F4CA-4E4A-A858BB8C113D}"
-EndProject
-Project("{FAB65B0A-3FA8-F6CB-A3C1-B7877982B540}") = "Pants vs Small Bees", "Assembly-UnityScript.unityproj", "{38178BB3-B598-9979-B383-19B17FF9D2E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pants vs Small Bees", "Assembly-CSharp-Editor.csproj", "{D8F4B241-3DD8-F4CA-4E4A-A858BB8C113D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,32 +19,11 @@ Global
 		{D8F4B241-3DD8-F4CA-4E4A-A858BB8C113D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8F4B241-3DD8-F4CA-4E4A-A858BB8C113D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8F4B241-3DD8-F4CA-4E4A-A858BB8C113D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{38178BB3-B598-9979-B383-19B17FF9D2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{38178BB3-B598-9979-B383-19B17FF9D2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{38178BB3-B598-9979-B383-19B17FF9D2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{38178BB3-B598-9979-B383-19B17FF9D2E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																															GlobalSection(MonoDevelopProperties) = preSolution
+	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
-		Policies = $0
-		$0.TextStylePolicy = $1
-		$1.inheritsSet = null
-		$1.scope = text/x-csharp
-		$0.CSharpFormattingPolicy = $2
-		$2.inheritsSet = Mono
-		$2.inheritsScope = text/x-csharp
-		$2.scope = text/x-csharp
-		$0.TextStylePolicy = $3
-		$3.FileWidth = 120
-		$3.TabWidth = 4
-		$3.IndentWidth = 4
-		$3.EolMarker = Unix
-		$3.inheritsSet = Mono
-		$3.inheritsScope = text/plain
-		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal

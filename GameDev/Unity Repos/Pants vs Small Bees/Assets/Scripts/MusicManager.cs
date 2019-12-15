@@ -1,41 +1,39 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MusicManager : MonoBehaviour {
-	public AudioClip[] levelAudioArray;
-	public AudioSource music;
-	public bool loop=true;
-	
-	void Awake(){
-		DontDestroyOnLoad(gameObject);
-		
-	}
-		
-	void Start () {
-		music=GetComponent<AudioSource>();
-		Debug.LogError(music);
-		
-		
-	}
-	
-	public void ChangeVol(float vol){
-		music.volume=vol;
-		
-		
-	}
+public class MusicManager : MonoBehaviour
+{
+    public AudioClip[] levelAudioArray;
+    public AudioSource music;
+    public bool loopMusic = true;
 
-	void OnLevelWasLoaded(int level){
-		Debug.Log(levelAudioArray[level]);
-		
-		AudioClip levelMusic=levelAudioArray[level];
-		
-		if (levelMusic && levelMusic != music.clip){//if clip exists & is not already playing
-			music.clip=levelMusic;
-			music.loop=loop;
-			music.Play();
-			
-		}
-		
-	}
+    void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
 
+    void Start()
+    {
+        music = GetComponent<AudioSource>();
+        Debug.Log("Audio source: " + music);
+    }
+
+    public void ChangeVolume(float volume)
+    {
+        music.volume = volume;
+    }
+
+    void OnLevelWasLoaded(int level)
+    {
+        Debug.Log("Playing audio: " + levelAudioArray[level]);
+
+        AudioClip levelMusic = levelAudioArray[level];
+
+        if (levelMusic && levelMusic != music.clip)
+        {
+            music.clip = levelMusic;
+            music.loop = loopMusic;
+            music.Play();
+        }
+    }
 }

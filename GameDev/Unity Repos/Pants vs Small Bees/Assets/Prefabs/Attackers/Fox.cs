@@ -1,46 +1,43 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Fox : MonoBehaviour {
+public class Fox : MonoBehaviour
+{
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
-	
-	void Strike(){
-		using (Attacker);
-		
-		}
+    // Use this for initialization
+    void Start()
+    {
+        Rigidbody2D myrigidbody = gameObject.AddComponent<Rigidbody2D>();
+        myrigidbody.isKinematic = true;
+    }
 
+    // Update is called once per frame
+    void Update()
+    {
+        transform.Translate(Vector3.left * currentSpeed * Time.deltaTime);
+    }
 
-[Range(-1f,2f)]
-public float currentSpeed;
-// Use this for initialization
-void Start () {
-	Rigidbody2D myrigidbody=gameObject.AddComponent<Rigidbody2D>();
-	myrigidbody.isKinematic=true;
-}
+    void OnTriggerEnter2D()
+    {
+        Debug.Log(name + "trigger enter");
+    }
 
-// Update is called once per frame
-void Update () {
-	transform.Translate(Vector3.left*currentSpeed*Time.deltaTime);
-}
+    public void SetSpeed(float speed)
+    {
+        currentSpeed = speed;
+    }
 
-void OnTriggerEnter2D(){
-	Debug.Log(name+"trigger enter");
-}
+    public void StrikeCurrentTarget(float dmg)
+    {
+        Debug.Log(name + " hits for " + dmg + " damage");
+    }
 
-public void SetSpeed(float speed){
-	currentSpeed=speed;
-}
+    void Strike()
+    {
+        //using (Attacker) ;
 
-public void StrikeCurrentTarget(float dmg){
-	Debug.Log(name+" hits for "+dmg+" damage");
-}
+    }
+
+    [Range(-1f, 2f)]
+    public float currentSpeed;
 }

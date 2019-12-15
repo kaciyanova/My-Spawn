@@ -1,29 +1,19 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{FAB65B0A-3FA8-F6CB-A3C1-B7877982B540}") = "Pants vs Small Bees", "Assembly-CSharp-vs.csproj", "{CCC9CAFE-39AA-BAB9-77D5-586F4847E54B}"
-EndProject
-Project("{FAB65B0A-3FA8-F6CB-A3C1-B7877982B540}") = "Pants vs Small Bees", "Assembly-CSharp-Editor-vs.csproj", "{D8F4B241-3DD8-F4CA-4E4A-A858BB8C113D}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CCC9CAFE-39AA-BAB9-77D5-586F4847E54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CCC9CAFE-39AA-BAB9-77D5-586F4847E54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CCC9CAFE-39AA-BAB9-77D5-586F4847E54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CCC9CAFE-39AA-BAB9-77D5-586F4847E54B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D8F4B241-3DD8-F4CA-4E4A-A858BB8C113D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D8F4B241-3DD8-F4CA-4E4A-A858BB8C113D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D8F4B241-3DD8-F4CA-4E4A-A858BB8C113D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D8F4B241-3DD8-F4CA-4E4A-A858BB8C113D}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																																GlobalSection(MonoDevelopProperties) = preSolution
+																																																																						GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

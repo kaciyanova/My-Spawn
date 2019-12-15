@@ -6,10 +6,10 @@ public class LifeText : MonoBehaviour {
 	public Text text;
 	
 	void Update(){
-		lifeText();
+		ShowRemainingLives();
 	}
 	
-	void lifeText(){
+    void ShowRemainingLives(){
 		//text.text=LoseCollider.lives.ToString();
 	}
 }

@@ -1,41 +1,50 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
-public class LevelManager : MonoBehaviour {
-	public float timer;
-	public bool timedcont=false;
-	
-	void Start(){
-		if (timer<=0){
-			Debug.Log("timer is less than 0!!");
-		}
-		else if (timedcont){
-			Invoke ("loadnextlevel",timer);
-		}
-	}	
 
-	void Update(){
-		if (Application.loadedLevel==0 && timer>=0){
-			if (Input.GetKeyDown(KeyCode.Escape)||Input.GetKeyDown(KeyCode.Space)||Input.GetMouseButtonDown(0)){
-				loadnextlevel();
-			}			
-		}
-		else{
-			Debug.Log("timer is less than 0!!");
-		}
-	}
-	
-	public void loadlevel(string name){
-		Debug.Log("lvl load req for: "+name);
-		Application.LoadLevel(name);
-	}
-	public void quitreq(){
-		Debug.Log("quit req");
-		Application.Quit ();
-		}
-	
-	public void loadnextlevel(){
-		Application.LoadLevel(Application.loadedLevel+1);
-		
-	}
+public class LevelManager : MonoBehaviour
+{
+    public float autoLoadNextLevelTimer;
+    public bool autoLoadNextLevel;
+
+    void Start()
+    {
+        if (autoLoadNextLevel && autoLoadNextLevelTimer <= 0)
+        {
+            Debug.LogError("Auto load next level timer is: " + autoLoadNextLevelTimer + ", please set a positive time");
+        }
+        else if (autoLoadNextLevel)
+        {
+            Invoke("loadnextlevel", autoLoadNextLevelTimer);
+        }
+    }
+
+    void Update()
+    {
+        if (SceneManager.GetActiveScene().buildIndex == 0 && autoLoadNextLevelTimer >= 0)
+        {
+            if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0) || Time.fixedTime >= autoLoadNextLevelTimer)
+            {
+                LoadNextLevel();
+            }
+        }
+    }
+
+    public void LoadLevel(string name)
+    {
+        Debug.Log("lvl load req for: " + name);
+        SceneManager.LoadScene(name);
+    }
+
+    public void Quit()
+    {
+        Debug.Log("quit req");
+        Application.Quit();
+    }
+
+    public void LoadNextLevel()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
 }

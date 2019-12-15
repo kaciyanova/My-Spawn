@@ -50,7 +50,7 @@ public class Brick : MonoBehaviour {
 	
 	void smokePuff(){
 		GameObject Smoke = Instantiate(smoke,gameObject.transform.position,Quaternion.identity) as GameObject;
-		Smoke.particleSystem.startColor=gameObject.GetComponent<SpriteRenderer>().color;
+		Smoke.GetComponent<ParticleSystem>().startColor=gameObject.GetComponent<SpriteRenderer>().color;
 		Destroy(gameObject);
 	}
 	void OnCollisionEnter2D (Collision2D collision){

@@ -19,14 +19,14 @@ public class Ball : MonoBehaviour {
 	// Update is called once per frame
 	void FixedUpdate () {
 		if (started==false){
-			rigidbody2D.velocity=new Vector2(0,0);
+			GetComponent<Rigidbody2D>().velocity=new Vector2(0,0);
 			transform.position=paddle.transform.position+paddletoballvector;
 		
 			if(Input.GetMouseButton(0)){
 				started=true;
 				y=Random.Range (5,v-1);
 				x=Mathf.Sqrt(v*v-y*(y-1));
-				rigidbody2D.velocity=new Vector2(x,y);
+				GetComponent<Rigidbody2D>().velocity=new Vector2(x,y);
 			}
 		}
 	}
@@ -34,7 +34,7 @@ public class Ball : MonoBehaviour {
 	void OnCollisionEnter2D (Collision2D collision){
 		Vector2 tweak=new Vector2(Random.Range(0f,-.05f),Random.Range(0f,0f));
 		if (started==true){
-			rigidbody2D.velocity+=tweak;
+			GetComponent<Rigidbody2D>().velocity+=tweak;
 		}
 	}
 
